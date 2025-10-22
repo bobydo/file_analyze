@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\err_files\\31047\\Estimate\\ISO-PY3-12150021.ERR",
+    "filename": "ISO-PY3-12150021.ERR",
+    "size_bytes": 152,
+    "extension": ".err",
+    "file_type": "error_log",
+    "is_binary": false,
+    "last_modified": "2012-12-12T16:24:20",
+    "export_timestamp": "2025-10-22T15:25:21.915860"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "#1\n\nProcessing ID: AT_IEIKWTE0_FCA  Error finding the coordinates of .wc\n#2\n\nProcessing ID: AT_IEIKWTE0_FCA  Error finding the coordinates of .wc\n",
+    "preview_length": 146,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

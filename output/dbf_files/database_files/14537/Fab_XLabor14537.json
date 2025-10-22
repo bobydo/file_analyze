@@ -1,0 +1,26 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\14537\\Fab_XLabor14537.dbf",
+    "filename": "Fab_XLabor14537.dbf",
+    "size_bytes": 194,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-05-31T13:11:16",
+    "export_timestamp": "2025-10-22T15:25:11.055504"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 5,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "XLCODE",
+      "XLDESCR",
+      "QUANTITY"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

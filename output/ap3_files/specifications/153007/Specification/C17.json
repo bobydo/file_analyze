@@ -1,0 +1,44 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\153007\\Specification\\C17.ap3",
+    "filename": "C17.ap3",
+    "size_bytes": 74,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2015-02-10T13:10:58",
+    "export_timestamp": "2025-10-22T15:25:19.742849"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 31 32 20 20",
+        "ascii": "....Entries=12  "
+      },
+      {
+        "offset": "00000010",
+        "hex": "4e 6f 6e 20 44 65 73 74 72 75 63 74 69 76 65 20",
+        "ascii": "Non Destructive "
+      },
+      {
+        "offset": "00000020",
+        "hex": "45 78 61 6d 0d 0a 0d 0a 0d 0a 31 30 30 25 0d 0a",
+        "ascii": "Exam......100%.."
+      },
+      {
+        "offset": "00000030",
+        "hex": "50 46 49 20 45 53 2d 33 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "PFI ES-3........"
+      },
+      {
+        "offset": "00000040",
+        "hex": "0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": ".........."
+      }
+    ],
+    "preview_size": 74
+  },
+  "error": null
+}

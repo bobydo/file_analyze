@@ -1,0 +1,111 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\EWF.ac3",
+    "filename": "EWF.ac3",
+    "size_bytes": 3473,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "1999-09-30T14:18:14",
+    "export_timestamp": "2025-10-22T15:25:11.900015"
+  },
+  "analysis": {
+    "type": "Isometric Data File",
+    "format": "Structured numeric data with file references",
+    "lines": 2,
+    "file_references": [],
+    "numeric_data_sample": [],
+    "recommended_tools": [
+      "PDMS (Plant Design Management System)",
+      "Intergraph PDS",
+      "AutoCAD Plant 3D",
+      "This Python script for data parsing"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "4c 2f 55 57 6c 6e 74 70 66 33 69 77 4d 4f 74 63",
+        "ascii": "L/UWlntpf3iwMOtc"
+      },
+      {
+        "offset": "00000010",
+        "hex": "64 53 7a 67 65 72 68 0d 0a 50 64 6a 7a 64 6a 36",
+        "ascii": "dSzgerh..Pdjzdj6"
+      },
+      {
+        "offset": "00000020",
+        "hex": "55 6c 49 38 50 36 66 62 53 32 38 63 37 4c 62 51",
+        "ascii": "UlI8P6fbS28c7LbQ"
+      },
+      {
+        "offset": "00000030",
+        "hex": "73 34 74 6f 55 47 35 69 46 2b 36 46 39 65 32 4b",
+        "ascii": "s4toUG5iF+6F9e2K"
+      },
+      {
+        "offset": "00000040",
+        "hex": "33 37 57 33 57 2f 68 74 37 68 6b 6b 67 00 00 69",
+        "ascii": "37W3W/ht7hkkg..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 47",
+        "ascii": "nch  mm    33.AG"
+      },
+      {
+        "offset": "00000060",
+        "hex": "72 43 67 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "rCgDimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 34 35 20 4c 52 20 45 6c 62 6f 77 20 20 20",
+        "ascii": "r 45 LR Elbow   "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 49 00 07 00 02 00 0c 00 02",
+        "ascii": "       I........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 20 4d 65 74",
+        "ascii": ".Nom. Size   Met"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "72 69 63 20 53 69 7a 65 20 49 6e 20 55 73 65 3f",
+        "ascii": "ric Size In Use?"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 43 61 6c 63 2e 20 44 69 6d 3f 20",
+        "ascii": "     Calc. Dim? "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

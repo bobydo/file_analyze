@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\test\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 226,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-02-20T13:31:59",
+    "export_timestamp": "2025-10-22T15:25:21.979838"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1450\n[Text nY]=160\n[Text Scale]=1.44\n[Text Line]=Coverall Pipeline\n\n\n[Logo Filename]=Logo name.jpg\n[Logo nX]=1550\n[Logo nY]=250\n[Logo Width]=500\n[Logo Height]=-180\n",
+    "preview_length": 212,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

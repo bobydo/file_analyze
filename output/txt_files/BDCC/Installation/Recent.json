@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\BDCC\\Installation\\Recent.txt",
+    "filename": "Recent.txt",
+    "size_bytes": 110,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-02-15T07:20:42",
+    "export_timestamp": "2025-10-22T15:25:21.994514"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "ER \n000001.api\n000002.api\n000003.api\n003174.api\n003264.api\nKS \n000002.api\n000001.api\n000003.api\n\n\n",
+    "preview_length": 98,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

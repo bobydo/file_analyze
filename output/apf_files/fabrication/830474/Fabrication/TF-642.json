@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apf_files\\fabrication\\830474\\Fabrication\\TF-642.apf",
+    "filename": "TF-642.apf",
+    "size_bytes": 1748,
+    "extension": ".apf",
+    "file_type": "fabrication_binary",
+    "is_binary": true,
+    "last_modified": "2012-03-08T15:38:47",
+    "export_timestamp": "2025-10-22T15:25:18.792649"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "7e 41 50 46 7e 30 38 34 35 38 64 00 30 24 00 00",
+        "ascii": "~APF~08458d.0$.."
+      },
+      {
+        "offset": "00000010",
+        "hex": "70 06 00 00 43 53 41 20 20 20 20 20 20 20 20 20",
+        "ascii": "p...CSA         "
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000040",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 43 2e 25",
+        "ascii": "             C.%"
+      },
+      {
+        "offset": "00000060",
+        "hex": "4e 45 3a 20 dc 6b 49 08 21 0f d8 ee e4 10 5e 6c",
+        "ascii": "NE: .kI.!.....^l"
+      },
+      {
+        "offset": "00000070",
+        "hex": "08 e3 bf 39 f5 1e ff 72 c5 ca f2 2d 77 6d 09 6c",
+        "ascii": "...9...r...-wm.l"
+      },
+      {
+        "offset": "00000080",
+        "hex": "b5 53 c1 9c 42 c9 45 e7 3a 29 75 91 40 b5 5e 2c",
+        "ascii": ".S..B.E.:)u.@.^,"
+      },
+      {
+        "offset": "00000090",
+        "hex": "48 c4 77 30 92 11 e3 c4 ff af 90 96 e3 f1 7d 7a",
+        "ascii": "H.w0..........}z"
+      },
+      {
+        "offset": "000000a0",
+        "hex": "2d 10 c2 d8 52 d1 57 81 81 fd 1e ef 20 a2 33 77",
+        "ascii": "-...R.W..... .3w"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "0e 1b e5 d0 f1 ae 38 db 50 13 80 cc d0 28 1a f2",
+        "ascii": "......8.P....(.."
+      },
+      {
+        "offset": "000000c0",
+        "hex": "ca cb 65 67 0e a5 82 cd 34 17 73 8c 7a ea 1f c5",
+        "ascii": "..eg....4.s.z..."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "6c 47 10 34 f8 6e 84 a1 81 76 cc 21 1a 44 ae a4",
+        "ascii": "lG.4.n...v.!.D.."
+      },
+      {
+        "offset": "000000e0",
+        "hex": "37 63 c6 33 2a 92 07 0d 53 44 94 87 80 eb 9b 67",
+        "ascii": "7c.3*...SD.....g"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "b3 d3 76 d3 9e 19 5e e3 6e 1f 07 b2 11 c6 a8 21",
+        "ascii": "..v...^.n......!"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

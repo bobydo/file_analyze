@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\42800381\\InstItems42800381.dbf",
+    "filename": "InstItems42800381.dbf",
+    "size_bytes": 5718,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-10-17T11:37:26",
+    "export_timestamp": "2025-10-22T15:25:11.157716"
+  },
+  "analysis": {
+    "record_count": 15,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1500  G  000000    CBS.000",
+        "ITEMLABEL": "1",
+        "DESCRIPT": "6\" Std(.280)*",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 0.0,
+        "WEIGHT": 11.728,
+        "SHOPQTY": 3.709,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "MBB1300     000000       .000",
+        "ITEMLABEL": "15",
+        "DESCRIPT": "stud, 5/8 in x 3-1/2in, A193 Gr B7",
+        "MATERIAL": "",
+        "QUANTITY": 16.0,
+        "WEIGHT": 0.0,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "W"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "KWN0600  Q  000000    CBS3.94",
+        "ITEMLABEL": "6",
+        "DESCRIPT": "1\"-100 Lg PBE Pipe Nipple Sch 160",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 0.0,
+        "WEIGHT": 1.866,
+        "SHOPQTY": 1.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "I"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

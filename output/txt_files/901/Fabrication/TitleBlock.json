@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\901\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 1061,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2008-08-08T07:49:48",
+    "export_timestamp": "2025-10-22T15:25:21.997059"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1419\n[Text nY]=193\n[Text Scale]=.95\n[Text Line]=August Winter & Sons, Inc\n\n[Text Alignment]=L\n[Text nX]=1419\n[Text nY]=138\n[Text Scale]=.95\n[Text Line]=2323 N. Roemer Rd.\n\n[Text Alignment]=L\n[Text nX]=1419\n[Text nY]=83\n[Text Scale]=.95\n[Text Line]=Appleton, Wisconsin\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=622\n[Text Scale]=.75\n[Text Line]=Check Fabrication Measurements\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=567\n[Text Scale]=.75\n[Text Line]=Check Welds\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=512\n[Text Scale]=.75\n[Text Line]=Clean Pipe\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=457\n[Text Scale]=.75\n[Text Line]=Purge Damn\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=402\n[Text Scale]=.75\n[Text Line]=Check for Non-Pipe Related Items Inside Pipe\n\n[Text Alignment]=L\n[Text nX]=2422\n[Text nY]=347\n[Text Scale]=.75\n[Text Line]=Shipped\n\n\n[Logo Filename]=Logo name.jpg\n[Logo nX]=1550\n[Logo nY]=250\n[Logo Width]=500\n[Logo Height]=-180\n",
+    "preview_length": 999,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

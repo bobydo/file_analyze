@@ -1,0 +1,29 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\InstWeldPricingBDCC.dbf",
+    "filename": "InstWeldPricingBDCC.dbf",
+    "size_bytes": 290,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-01-25T07:02:02",
+    "export_timestamp": "2025-10-22T15:25:11.319731"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 8,
+    "field_names": [
+      "WCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "WDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

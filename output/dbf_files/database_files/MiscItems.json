@@ -1,0 +1,15 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\MiscItems.dbf",
+    "filename": "MiscItems.dbf",
+    "size_bytes": 5473,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2015-02-22T19:19:36",
+    "export_timestamp": "2025-10-22T15:25:11.002229"
+  },
+  "analysis": {},
+  "content_preview": {},
+  "error": "DBF analysis error: could not convert string to float: b'.'"
+}

@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\14537\\EstStatus14537.dbf",
+    "filename": "EstStatus14537.dbf",
+    "size_bytes": 105314,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:34:32",
+    "export_timestamp": "2025-10-22T15:25:11.039457"
+  },
+  "analysis": {
+    "record_count": 288,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "ISONAME",
+      "FILEDATE",
+      "PSPEC1",
+      "PSPEC2",
+      "PSPEC3",
+      "SERVICE",
+      "ISPEC",
+      "PTSPEC",
+      "TSPEC",
+      "IMPDATE",
+      "STATUS",
+      "REMARK"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "12E-CG-0001-PRM-0008-01.PCF",
+        "ISONAME": "",
+        "FILEDATE": "",
+        "PSPEC1": "CHS",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "FILENAME": "12E-CG-0001-PRM-0008-02.PCF",
+        "ISONAME": "",
+        "FILEDATE": "",
+        "PSPEC1": "CHS",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "FILENAME": "12E-CG-0001-PRM-0021-01.PCF",
+        "ISONAME": "",
+        "FILEDATE": "",
+        "PSPEC1": "CHS",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "",
+        "STATUS": "",
+        "REMARK": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,34 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\Shenyi\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 45,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2015-01-28T14:31:52",
+    "export_timestamp": "2025-10-22T15:25:19.777427"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "4e 65 77 20 53 75 6e 63 6f 72 0d 0a 56 49 43 0d",
+        "ascii": "New Suncor..VIC."
+      },
+      {
+        "offset": "00000010",
+        "hex": "0a 30 30 30 30 30 0d 0a 20 31 34 35 31 0d 0a 30",
+        "ascii": ".00000.. 1451..0"
+      },
+      {
+        "offset": "00000020",
+        "hex": "0d 0a 31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "..1.........."
+      }
+    ],
+    "preview_size": 45
+  },
+  "error": null
+}

@@ -1,0 +1,144 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\BWV.ac3",
+    "filename": "BWV.ac3",
+    "size_bytes": 3587,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2010-01-10T12:25:24",
+    "export_timestamp": "2025-10-22T15:25:11.808734"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 3587,
+    "specifications": [
+      "inch  mm    33",
+      "Dimensions for Vict #920 bolted branches created 2010-01-09                                         X"
+    ],
+    "dimensions": [
+      "1/8         3",
+      "1/4         6",
+      "3/8         9",
+      "1/2         12",
+      "3/4         20",
+      "1           25",
+      "1-1/4       30",
+      "4           100",
+      "6           150",
+      "8           200",
+      "10          250",
+      "12          300",
+      "14          350",
+      "16          400",
+      "18          450",
+      "20          500",
+      "22          550",
+      "24          600",
+      "26          650",
+      "28          700"
+    ],
+    "other_text": [
+      "r<aV",
+      "Nom. Size   Metric Size In Use?     Weight #    Size on SizeReducing",
+      "?1-1/2       40",
+      "?2           50",
+      "?2-1/2       65",
+      "?3           75",
+      "?3-1/2       85",
+      "@5           125"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "13 72 3c 61 56 c1 ed d1 49 5f bd 7a f5 df ec 86",
+        "ascii": ".r<aV...I_.z...."
+      },
+      {
+        "offset": "00000010",
+        "hex": "21 04 e8 e8 19 ff 13 44 47 42 b9 61 28 f4 df 0c",
+        "ascii": "!......DGB.a(..."
+      },
+      {
+        "offset": "00000020",
+        "hex": "74 b4 7e 9c 37 cc 31 cd 06 be d8 1f f2 ab 8c 3f",
+        "ascii": "t.~.7.1........?"
+      },
+      {
+        "offset": "00000030",
+        "hex": "32 10 00 00 b4 07 65 44 00 1d 6d f9 ff ff ff 42",
+        "ascii": "2.....eD..m....B"
+      },
+      {
+        "offset": "00000040",
+        "hex": "19 f6 a5 4b 97 40 6f 18 62 d7 7d b7 50 00 00 69",
+        "ascii": "...K.@o.b.}.P..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 e9",
+        "ascii": "nch  mm    33.A."
+      },
+      {
+        "offset": "00000060",
+        "hex": "96 83 00 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "...Dimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 56 69 63 74 20 23 39 32 30 20 62 6f 6c 74",
+        "ascii": "r Vict #920 bolt"
+      },
+      {
+        "offset": "00000080",
+        "hex": "65 64 20 62 72 61 6e 63 68 65 73 20 63 72 65 61",
+        "ascii": "ed branches crea"
+      },
+      {
+        "offset": "00000090",
+        "hex": "74 65 64 20 32 30 31 30 2d 30 31 2d 30 39 20 20",
+        "ascii": "ted 2010-01-09  "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 58 00 06 00 02 00 0c 00 01",
+        "ascii": "       X........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 20 4d 65 74",
+        "ascii": ".Nom. Size   Met"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "72 69 63 20 53 69 7a 65 20 49 6e 20 55 73 65 3f",
+        "ascii": "ric Size In Use?"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 57 65 69 67 68 74 20 23 20 20 20",
+        "ascii": "     Weight #   "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

@@ -1,0 +1,117 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\MTV.AC3",
+    "filename": "MTV.AC3",
+    "size_bytes": 2873,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2012-03-08T12:58:18",
+    "export_timestamp": "2025-10-22T15:25:12.084584"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 2873,
+    "specifications": [
+      "inch  mm",
+      "RDimensions for    created 12-02-2003                                                                ?"
+    ],
+    "dimensions": [],
+    "other_text": [
+      "Letter              Material            In Use?",
+      "A                   A312-TP316          B                   A312-TP316H         C                   A312-TP316L         D                   A312-TP316N         E                   A312-TP316/316L     F                   A358-TP316 CL1      G                   A358-TP316 CL2      H                   A358-TP316 CL5      I                   A358-TP316L CL1     J                   A358-TP316L CL2     K                   A358-TP316L CL5     L                   A358-TP316H CL1     M                   A358-TP316H CL2     N                   A358-TP316/316L CL1 O                   A358-TP316/316L CL2 P                   A778-TP316L         Q                                       R                   A403-WP316          S                   A403-WP316H         T                   A403-WP316L         U                   A403-WP316N         V                   A403-WP316/316L     W                   A403-CR316          X                   A403-CR316L         Y                   A774-TP316L         Z                                       a                   A182-F316           b                   A182-F316H          c                   A182-F316L          d                   A182-F316N          e                   A182-F316/316L      f                                       g                   A240-F316           h                   A240-F316H          i                   A240-F316L          j                   A240-F316N          k                   A240-F316/316L      l                                       m                                       n                                       o                                       p                                       q                                       r                                       s                                       t                                       u                                       v                                       w                                       x                                       y                                       z                                       0                                       1                                       2                                       3                                       4                                       5                                       6                                       7                                       8                                       9"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "46 00 69 00 6c 00 65 00 73 00 5c 00 43 00 6f 00",
+        "ascii": "F.i.l.e.s.\\.C.o."
+      },
+      {
+        "offset": "00000010",
+        "hex": "6e 00 74 00 65 00 6e 00 74 00 2e 00 49 00 45 00",
+        "ascii": "n.t.e.n.t...I.E."
+      },
+      {
+        "offset": "00000020",
+        "hex": "35 00 5c 00 36 00 4b 00 33 00 33 00 39 00 34 00",
+        "ascii": "5.\\.6.K.3.3.9.4."
+      },
+      {
+        "offset": "00000030",
+        "hex": "54 00 51 00 5c 00 72 00 61 00 74 00 65 00 73 00",
+        "ascii": "T.Q.\\.r.a.t.e.s."
+      },
+      {
+        "offset": "00000040",
+        "hex": "5b 00 32 00 5d 00 2e 00 68 00 74 00 6d 00 00 69",
+        "ascii": "[.2.]...h.t.m..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 01",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "01 00 52 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "..RDimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 20 20 20 63 72 65 61 74 65 64 20 31 32 2d",
+        "ascii": "r    created 12-"
+      },
+      {
+        "offset": "00000080",
+        "hex": "30 32 2d 32 30 30 33 20 20 20 20 20 20 20 20 20",
+        "ascii": "02-2003         "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 3f 00 03 00 02 00 14 00 01",
+        "ascii": "       ?........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 4d 61 74 65 72 69 61 6c 20 20 20",
+        "ascii": "     Material   "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 49 6e 20 55 73 65 3f",
+        "ascii": "         In Use?"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

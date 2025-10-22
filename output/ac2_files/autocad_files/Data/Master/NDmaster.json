@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac2_files\\autocad_files\\Data\\Master\\NDmaster.ac2",
+    "filename": "NDmaster.ac2",
+    "size_bytes": 2777,
+    "extension": ".ac2",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2013-12-20T07:20:46",
+    "export_timestamp": "2025-10-22T15:25:11.627139"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "57 00 5b 00 31 00 5d 00 2e 00 54 00 58 00 54 00",
+        "ascii": "W.[.1.]...T.X.T."
+      },
+      {
+        "offset": "00000010",
+        "hex": "00 00 6a 00 04 00 00 00 08 00 00 8c 2a 02 7b 33",
+        "ascii": "..j.........*.{3"
+      },
+      {
+        "offset": "00000020",
+        "hex": "bf 01 01 00 00 00 54 00 57 00 49 00 4e 00 44 00",
+        "ascii": "......T.W.I.N.D."
+      },
+      {
+        "offset": "00000030",
+        "hex": "4f 00 57 00 53 00 5c 00 43 00 4f 00 4f 00 4b 00",
+        "ascii": "O.W.S.\\.C.O.O.K."
+      },
+      {
+        "offset": "00000040",
+        "hex": "49 00 45 00 53 00 5c 00 4a 00 4f 00 48 00 00 69",
+        "ascii": "I.E.S.\\.J.O.H..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "48 00 43 45 6e 64 20 4c 61 62 65 6c 73 20 26 20",
+        "ascii": "H.CEnd Labels & "
+      },
+      {
+        "offset": "00000070",
+        "hex": "49 6d 61 67 65 73 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "Images          "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 19 00 06 00 04 00 14 00 02",
+        "ascii": "       ........."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 45 6e 64 20 4c 61 62 65 6c 20 20",
+        "ascii": "     End Label  "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 4c 61 62 65 6c 20 20",
+        "ascii": "         Label  "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

@@ -1,0 +1,33 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\31047\\InstItems31047.dbf",
+    "filename": "InstItems31047.dbf",
+    "size_bytes": 418,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-03-14T10:56:56",
+    "export_timestamp": "2025-10-22T15:25:11.133172"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

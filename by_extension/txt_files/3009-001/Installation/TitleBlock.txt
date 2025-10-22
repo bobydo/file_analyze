@@ -1,0 +1,7 @@
+[Text Font]=Impact
+
+[Logo Filename]=AECON WEST LOGO-Model.jpg
+[Logo nX]=3020
+[Logo nY]=710
+[Logo Width]=1120
+[Logo Height]=-80

@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap2_files\\specifications\\830474\\Specification\\CNC.ap2",
+    "filename": "CNC.ap2",
+    "size_bytes": 59,
+    "extension": ".ap2",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2011-11-27T11:12:40",
+    "export_timestamp": "2025-10-22T15:25:19.617269"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "43 6f 6e 6f 63 6f 50 68 69 6c 6c 69 70 73 20 53",
+        "ascii": "ConocoPhillips S"
+      },
+      {
+        "offset": "00000010",
+        "hex": "75 72 6d 6f 6e 74 20 32 0d 0a 43 4e 43 0d 0a 31",
+        "ascii": "urmont 2..CNC..1"
+      },
+      {
+        "offset": "00000020",
+        "hex": "30 30 30 30 0d 0a 20 31 34 35 31 0d 0a 30 0d 0a",
+        "ascii": "0000.. 1451..0.."
+      },
+      {
+        "offset": "00000030",
+        "hex": "31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "1.........."
+      }
+    ],
+    "preview_size": 59
+  },
+  "error": null
+}

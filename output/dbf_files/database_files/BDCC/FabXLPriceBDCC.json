@@ -1,0 +1,44 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\FabXLPriceBDCC.dbf",
+    "filename": "FabXLPriceBDCC.dbf",
+    "size_bytes": 3704,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-02-17T15:27:30",
+    "export_timestamp": "2025-10-22T15:25:11.296326"
+  },
+  "analysis": {
+    "record_count": 28,
+    "field_count": 4,
+    "field_names": [
+      "XLPCODE",
+      "XLPDESCR",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": [
+      {
+        "XLPCODE": "09",
+        "XLPDESCR": "Painting",
+        "PRICE": 16.5,
+        "FACTOR": 1.0
+      },
+      {
+        "XLPCODE": "11",
+        "XLPDESCR": "Insulation Support",
+        "PRICE": 0.0,
+        "FACTOR": 1.0
+      },
+      {
+        "XLPCODE": "30",
+        "XLPDESCR": "Painting",
+        "PRICE": 136.5,
+        "FACTOR": 1.0
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

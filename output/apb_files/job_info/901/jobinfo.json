@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\901\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 52,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2012-10-04T10:21:54",
+    "export_timestamp": "2025-10-22T15:25:19.769377"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "42 45 4c 4c 49 4e 20 48 45 41 4c 54 48 0d 0a 41",
+        "ascii": "BELLIN HEALTH..A"
+      },
+      {
+        "offset": "00000010",
+        "hex": "41 52 42 30 0d 0a 30 30 30 30 30 0d 0a 20 31 34",
+        "ascii": "ARB0..00000.. 14"
+      },
+      {
+        "offset": "00000020",
+        "hex": "34 38 0d 0a 30 0d 0a 31 2e 35 0d 0a 0d 0a 0d 0a",
+        "ascii": "48..0..1.5......"
+      },
+      {
+        "offset": "00000030",
+        "hex": "0d 0a 0d 0a",
+        "ascii": "...."
+      }
+    ],
+    "preview_size": 52
+  },
+  "error": null
+}

@@ -1,0 +1,32 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1550
+[Text nY]=206
+[Text Scale]=1
+[Text Line]=RIVER PARISH
+
+[Text Alignment]=L
+[Text nX]=1475
+[Text nY]=156
+[Text Scale]=1
+[Text Line]=CONTRACTORS, INC.
+
+[Text Alignment]=L
+[Text nX]=1602
+[Text nY]=109
+[Text Scale]=0.5787037
+[Text Line]=P.O. BOX 2650
+
+[Text Alignment]=L
+[Text nX]=1570
+[Text nY]=71
+[Text Scale]=0.5787037
+[Text Line]=RESERVE, LA 70084
+
+
+[Logo Filename]=rpclogo.jpg
+[Logo nX]=-1550
+[Logo nY]=250
+[Logo Width]=500
+[Logo Height]=-180

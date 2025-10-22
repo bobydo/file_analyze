@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\830474\\EstItems830474.dbf",
+    "filename": "EstItems830474.dbf",
+    "size_bytes": 199961,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:36:43",
+    "export_timestamp": "2025-10-22T15:25:11.166943"
+  },
+  "analysis": {
+    "record_count": 413,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "IDFDESCR",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "AUXCODE",
+      "FILENAME"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1100  G  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "3\" Std(.216)  BE x BE*",
+        "IDFDESCR": "PIPE, SCH XS, SMLS STL, A106-B",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 12.0,
+        "WEIGHT": 15.152,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "1070441-01.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "WFW1500  G  000000 5R EG~.000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "6\" 600# RF Weld Neck Std",
+        "IDFDESCR": "WELD NECK FLANGE, 600LB, RF,STL, XS BORE, A105",
+        "MATERIAL": "A105N",
+        "QUANTITY": 1.0,
+        "WEIGHT": 73.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "B",
+        "FILENAME": "1070441-01.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "WFW1100  G  000000 5R EG~.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": "3\" 600# RF Weld Neck Std",
+        "IDFDESCR": "WELD NECK FLANGE, 600LB, RF,STL, XS BORE, A105",
+        "MATERIAL": "A105N",
+        "QUANTITY": 1.0,
+        "WEIGHT": 18.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "B",
+        "FILENAME": "1070441-01.PCF"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

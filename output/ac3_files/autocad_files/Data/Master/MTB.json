@@ -1,0 +1,117 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\MTB.ac3",
+    "filename": "MTB.ac3",
+    "size_bytes": 2873,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2012-01-19T08:52:10",
+    "export_timestamp": "2025-10-22T15:25:12.047634"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 2873,
+    "specifications": [
+      "inch  mm"
+    ],
+    "dimensions": [],
+    "other_text": [
+      "vMaterials Category B-Aluminum Fittings                                                              ?",
+      "Letter              Material            In Use?",
+      "A                   B361-WP3003         B                   B361-WP6061-T6      C                   B361-WP6063-T6      D                   B361-WP6351-T5      E                   B361-WP6351-T6      F                                       G                                       H                                       I                                       J                   B247-3003-H112      K                   B247-6061-T6        L                   B209-3003-H112      M                   B209-6061-T4        N                   B209-6061-T6        O                                       P                                       Q                                       R                                       S                                       T                                       U                                       V                                       W                                       X                                       Y                                       Z                                       a                   Material a          b                   Material b          c                                       d                                       e                                       f                                       g                                       h                                       i                                       j                                       k                                       l                                       m                                       n                                       o                                       p                                       q                                       r                                       s                                       t                                       u                                       v                                       w                                       x                                       y                                       z                                       0                                       1                                       2                                       3                                       4                                       5                                       6                                       7                                       8                                       9"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "5c 00 54 00 65 00 6d 00 70 00 6f 00 72 00 61 00",
+        "ascii": "\\.T.e.m.p.o.r.a."
+      },
+      {
+        "offset": "00000010",
+        "hex": "72 00 79 00 20 00 49 00 6e 00 74 00 65 00 72 00",
+        "ascii": "r.y. .I.n.t.e.r."
+      },
+      {
+        "offset": "00000020",
+        "hex": "6e 00 65 00 74 00 20 00 46 00 69 00 6c 00 65 00",
+        "ascii": "n.e.t. .F.i.l.e."
+      },
+      {
+        "offset": "00000030",
+        "hex": "73 00 5c 00 43 00 6f 00 6e 00 74 00 65 00 6e 00",
+        "ascii": "s.\\.C.o.n.t.e.n."
+      },
+      {
+        "offset": "00000040",
+        "hex": "74 00 2e 00 49 00 45 00 35 00 5c 00 47 00 00 69",
+        "ascii": "t...I.E.5.\\.G..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "61 00 76 4d 61 74 65 72 69 61 6c 73 20 43 61 74",
+        "ascii": "a.vMaterials Cat"
+      },
+      {
+        "offset": "00000070",
+        "hex": "65 67 6f 72 79 20 42 2d 41 6c 75 6d 69 6e 75 6d",
+        "ascii": "egory B-Aluminum"
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 46 69 74 74 69 6e 67 73 20 20 20 20 20 20 20",
+        "ascii": " Fittings       "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 3f 00 03 00 02 00 14 00 01",
+        "ascii": "       ?........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 4d 61 74 65 72 69 61 6c 20 20 20",
+        "ascii": "     Material   "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 49 6e 20 55 73 65 3f",
+        "ascii": "         In Use?"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

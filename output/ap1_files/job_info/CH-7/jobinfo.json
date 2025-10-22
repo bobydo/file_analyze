@@ -1,0 +1,69 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap1_files\\job_info\\CH-7\\jobinfo.ap1",
+    "filename": "jobinfo.ap1",
+    "size_bytes": 146,
+    "extension": ".ap1",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2012-04-15T11:01:54",
+    "export_timestamp": "2025-10-22T15:25:19.593111"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "30 30 33 30 30 30 30 30 0d 0a 31 30 31 30 30 30",
+        "ascii": "00300000..101000"
+      },
+      {
+        "offset": "00000010",
+        "hex": "0d 0a 09 0d 0a 31 41 30 31 30 20 20 20 20 20 20",
+        "ascii": ".....1A010      "
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 20 20 20 20 20 20 20 20 31 2e 35 20 20 31 2e",
+        "ascii": "         1.5  1."
+      },
+      {
+        "offset": "00000030",
+        "hex": "35 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "5               "
+      },
+      {
+        "offset": "00000040",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000060",
+        "hex": "20 20 20 20 20 0d 0a 0d 0a 45 6e 74 72 69 65 73",
+        "ascii": "     ....Entries"
+      },
+      {
+        "offset": "00000070",
+        "hex": "3d 34 20 4a 6f 62 20 49 6e 66 6f 72 6d 61 74 69",
+        "ascii": "=4 Job Informati"
+      },
+      {
+        "offset": "00000080",
+        "hex": "6f 6e 20 45 6e 74 72 79 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "on Entry........"
+      },
+      {
+        "offset": "00000090",
+        "hex": "0d 0a",
+        "ascii": ".."
+      }
+    ],
+    "preview_size": 146
+  },
+  "error": null
+}

@@ -1,0 +1,40 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\FabALPricingBDCC.dbf",
+    "filename": "FabALPricingBDCC.dbf",
+    "size_bytes": 415,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-01-25T07:02:08",
+    "export_timestamp": "2025-10-22T15:25:11.271729"
+  },
+  "analysis": {
+    "record_count": 1,
+    "field_count": 8,
+    "field_names": [
+      "APCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": [
+      {
+        "APCODE": "",
+        "SIZE_I": "",
+        "SIZE_M": "",
+        "ALDESCR": "",
+        "WALL_I": "",
+        "WALL_M": "",
+        "PRICE": null,
+        "FACTOR": null
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

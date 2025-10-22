@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\InstItems001.dbf",
+    "filename": "InstItems001.dbf",
+    "size_bytes": 91578,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-05-22T16:23:32",
+    "export_timestamp": "2025-10-22T15:25:11.024861"
+  },
+  "analysis": {
+    "record_count": 344,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1100  G  000000    CA~.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "3\" Std(.216)",
+        "MATERIAL": "A53-B",
+        "QUANTITY": 1403.621,
+        "WEIGHT": 303.036,
+        "SHOPQTY": 2699.292,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0400  Q  000000    CA~.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": " 1/2\" Sch 160(.188)",
+        "MATERIAL": "A53-B",
+        "QUANTITY": 0.0,
+        "WEIGHT": 0.422,
+        "SHOPQTY": 3.87,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "WFW0900  K  000000 3R EH~.000",
+        "ITEMLABEL": "E",
+        "DESCRIPT": "2\" 300# RF Weld Neck XS",
+        "MATERIAL": "A105",
+        "QUANTITY": 5.0,
+        "WEIGHT": 8.0,
+        "SHOPQTY": 1.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "B"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

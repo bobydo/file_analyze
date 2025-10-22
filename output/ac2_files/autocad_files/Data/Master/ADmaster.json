@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac2_files\\autocad_files\\Data\\Master\\ADmaster.ac2",
+    "filename": "ADmaster.ac2",
+    "size_bytes": 2549,
+    "extension": ".ac2",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2014-04-24T15:56:46",
+    "export_timestamp": "2025-10-22T15:25:11.595168"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "62 59 64 6c 6f 68 48 50 47 41 49 48 50 42 38 49",
+        "ascii": "bYdlohHPGAIHPB8I"
+      },
+      {
+        "offset": "00000010",
+        "hex": "49 64 65 72 4d 45 61 73 53 46 51 76 34 4b 46 67",
+        "ascii": "IderMEasSFQv4KFg"
+      },
+      {
+        "offset": "00000020",
+        "hex": "47 76 67 49 31 6c 53 6d 43 55 41 39 71 47 50 64",
+        "ascii": "GvgI1lSmCUA9qGPd"
+      },
+      {
+        "offset": "00000030",
+        "hex": "65 7a 67 0d 0a 58 37 4f 70 77 6a 58 71 49 49 4d",
+        "ascii": "ezg..X7OpwjXqIIM"
+      },
+      {
+        "offset": "00000040",
+        "hex": "4d 30 49 49 57 74 71 42 46 50 71 67 69 00 00 69",
+        "ascii": "M0IIWtqBFPqgi..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 68",
+        "ascii": "nch  mm    ...?h"
+      },
+      {
+        "offset": "00000060",
+        "hex": "54 43 30 41 74 74 61 63 68 6d 65 6e 74 20 54 65",
+        "ascii": "TC0Attachment Te"
+      },
+      {
+        "offset": "00000070",
+        "hex": "6d 70 6c 61 74 65 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "mplate          "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 19 00 05 00 03 00 14 00 02",
+        "ascii": "       ........."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 44 65 73 63 72 69 70 74 69 6f 6e",
+        "ascii": "     Description"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 48 61 6e 64 6c 69 6e",
+        "ascii": "         Handlin"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

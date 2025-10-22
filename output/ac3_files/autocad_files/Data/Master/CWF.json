@@ -1,0 +1,101 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\CWF.ac3",
+    "filename": "CWF.ac3",
+    "size_bytes": 3048,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2003-09-11T23:21:30",
+    "export_timestamp": "2025-10-22T15:25:11.821015"
+  },
+  "analysis": {
+    "error": "'charmap' codec can't decode byte 0x8f in position 9: character maps to <undefined>"
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "a9 c7 b7 c6 b3 3d 76 bf 1f 8f 24 54 24 84 17 07",
+        "ascii": ".....=v...$T$..."
+      },
+      {
+        "offset": "00000010",
+        "hex": "5f 60 22 41 9c 00 c5 30 5b 7a 22 47 94 13 a0 ad",
+        "ascii": "_`\"A...0[z\"G...."
+      },
+      {
+        "offset": "00000020",
+        "hex": "1c 61 4e f4 53 06 c5 39 01 8a 70 02 14 a2 f2 9b",
+        "ascii": ".aN.S..9..p....."
+      },
+      {
+        "offset": "00000030",
+        "hex": "be 38 cb da ad d8 ec 7f 7b 5b 78 74 75 07 b3 81",
+        "ascii": ".8......{[xtu..."
+      },
+      {
+        "offset": "00000040",
+        "hex": "a7 91 5a 17 fe 07 c7 78 61 89 31 5a 7b 00 00 69",
+        "ascii": "..Z....xa.1Z{..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 20",
+        "ascii": "nch  mm    33.A "
+      },
+      {
+        "offset": "00000060",
+        "hex": "81 8e 86 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "...Dimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 58 58 48 20 42 57 20 43 61 70 20 20 20 20",
+        "ascii": "r XXH BW Cap    "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 58 00 05 00 02 00 0b 00 01",
+        "ascii": "       X........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 4d 65 74 72",
+        "ascii": ".Nom. Size  Metr"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "69 63 20 53 69 7a 65 49 6e 20 55 73 65 3f 20 20",
+        "ascii": "ic SizeIn Use?  "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 57 65 69 67 68 74 20 20 20 20 20 44 69 6d",
+        "ascii": "  Weight     Dim"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\31047\\Specification\\A.ap3",
+    "filename": "A.ap3",
+    "size_bytes": 272,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2011-11-10T06:15:28",
+    "export_timestamp": "2025-10-22T15:25:19.687783"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 31 32 20 4e",
+        "ascii": "....Entries=12 N"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45",
+        "ascii": "on Destructive E"
+      },
+      {
+        "offset": "00000020",
+        "hex": "78 61 6d 0d 0a 53 45 45 20 47 52 41 44 45 20 44",
+        "ascii": "xam..SEE GRADE D"
+      },
+      {
+        "offset": "00000030",
+        "hex": "45 54 0d 0a 0d 0a 0d 0a 50 46 49 2d 45 53 33 0d",
+        "ascii": "ET......PFI-ES3."
+      },
+      {
+        "offset": "00000040",
+        "hex": "0a 0d 0a 0d 0a 31 30 30 25 0d 0a 0d 0a 57 49 52",
+        "ascii": ".....100%....WIR"
+      },
+      {
+        "offset": "00000050",
+        "hex": "45 20 4f 4e 20 4d 45 54 41 4c 0d 0a 0d 0a 53 45",
+        "ascii": "E ON METAL....SE"
+      },
+      {
+        "offset": "00000060",
+        "hex": "45 20 47 52 41 44 45 20 44 45 54 0d 0a 0d 0a 0d",
+        "ascii": "E GRADE DET....."
+      },
+      {
+        "offset": "00000070",
+        "hex": "0a 0d 0a 45 6e 74 72 69 65 73 3d 35 20 57 65 6c",
+        "ascii": "...Entries=5 Wel"
+      },
+      {
+        "offset": "00000080",
+        "hex": "64 69 6e 67 20 50 72 6f 63 65 64 75 72 65 73 0d",
+        "ascii": "ding Procedures."
+      },
+      {
+        "offset": "00000090",
+        "hex": "0a 31 34 31 0d 0a 31 37 36 0d 0a 0d 0a 0d 0a 0d",
+        "ascii": ".141..176......."
+      },
+      {
+        "offset": "000000a0",
+        "hex": "0a 0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 35 20 53",
+        "ascii": ".....Entries=5 S"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "70 65 63 69 66 69 63 61 74 69 6f 6e 20 4e 6f 74",
+        "ascii": "pecification Not"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "65 73 0d 0a 4e 4f 54 45 3a 0d 0a 54 41 47 20 53",
+        "ascii": "es..NOTE:..TAG S"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "50 4f 4f 4c 53 20 57 2f 50 43 20 4d 4b 2c 20 4a",
+        "ascii": "POOLS W/PC MK, J"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "4f 42 23 20 41 4e 44 20 53 50 4f 4f 4c 23 2e 0d",
+        "ascii": "OB# AND SPOOL#.."
+      },
+      {
+        "offset": "000000f0",
+        "hex": "0a 50 49 50 45 20 4d 41 54 27 4c 20 41 50 49 2d",
+        "ascii": ".PIPE MAT'L API-"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

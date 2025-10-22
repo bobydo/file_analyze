@@ -1,0 +1,147 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\ESI2.ac3",
+    "filename": "ESI2.ac3",
+    "size_bytes": 2417,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "1999-12-31T13:08:32",
+    "export_timestamp": "2025-10-22T15:25:11.882123"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 2417,
+    "specifications": [
+      "inch  mm    33",
+      "Dimensions for 6000# 90 SW Elbow                                                                    I",
+      "Nom. Size   Metric Size In Use?     Dimension"
+    ],
+    "dimensions": [
+      "1/8         3",
+      "4           100",
+      "6           150",
+      "8           200",
+      "10          250",
+      "12          300",
+      "14          350",
+      "16          400",
+      "18          450",
+      "20          500",
+      "22          550",
+      "24          600",
+      "26          650",
+      "28          700",
+      "30          750",
+      "32          800",
+      "34          850",
+      "36          900",
+      "38          950",
+      "40          1000"
+    ],
+    "other_text": [
+      ">1/4         6",
+      "?3/8         9",
+      "?1/2         12",
+      "@?3/4         20",
+      "`?1           25",
+      "?1-1/4       30",
+      "?1-1/2       40",
+      "?2           50",
+      "?2-1/2       65",
+      "@3           75"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "ee ee e0 00 00 00 09 00 ee ee 00 00 00 08 00 90",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000010",
+        "hex": "08 80 00 78 00 81 00 00 00 0b 00 81 80 08 00 00",
+        "ascii": "...x............"
+      },
+      {
+        "offset": "00000020",
+        "hex": "00 b0 00 08 00 00 00 00 08 00 08 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000030",
+        "hex": "00 00 81 80 08 00 00 00 00 00 08 00 81 80 f0 ff",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000040",
+        "hex": "00 00 c0 3f 00 00 80 1f 00 00 80 1c 00 01 00 69",
+        "ascii": "...?...........i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 0f",
+        "ascii": "nch  mm    33.A."
+      },
+      {
+        "offset": "00000060",
+        "hex": "00 00 00 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "...Dimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 36 30 30 30 23 20 39 30 20 53 57 20 45 6c",
+        "ascii": "r 6000# 90 SW El"
+      },
+      {
+        "offset": "00000080",
+        "hex": "62 6f 77 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "bow             "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 49 00 04 00 02 00 0c 00 01",
+        "ascii": "       I........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 20 4d 65 74",
+        "ascii": ".Nom. Size   Met"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "72 69 63 20 53 69 7a 65 20 49 6e 20 55 73 65 3f",
+        "ascii": "ric Size In Use?"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 44 69 6d 65 6e 73 69 6f 6e 20 20",
+        "ascii": "     Dimension  "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

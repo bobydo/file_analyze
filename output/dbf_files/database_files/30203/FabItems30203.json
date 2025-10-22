@@ -1,0 +1,42 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\30203\\FabItems30203.dbf",
+    "filename": "FabItems30203.dbf",
+    "size_bytes": 1111,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2025-05-03T19:47:51.278916",
+    "export_timestamp": "2025-10-22T15:25:11.086405"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 21,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "HEATNO",
+      "MTRNO",
+      "PMINO",
+      "AUXCODE",
+      "E1",
+      "N1",
+      "U1",
+      "E2",
+      "N2",
+      "U2"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,130 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\spc_files\\specifications\\BDCC\\Specification\\ARY1.spc",
+    "filename": "ARY1.spc",
+    "size_bytes": 14976,
+    "extension": ".spc",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-02-27T13:28:34",
+    "export_timestamp": "2025-10-22T15:25:12.737110"
+  },
+  "analysis": {
+    "type": "SPC Specification File",
+    "format": "Binary with embedded text",
+    "size": 14976,
+    "readable_text_segments": [
+      "150# Carbon Steel                       080000              B31.3                                                               ABDH                                    ABDHJKLMNP                                                                              13                                      R                                       3                                                                                                                                                                               P         GH        FGIJ      DFHI      CDGH      CEGHK     EFGHKLMPR           GIL                                             P         E         GH        CEG       NOP       C         BDEHJX              BFGL                                            I         S         WX        S         A                                       BCGW      EGJL      BJQ",
+      "1R33I  B",
+      "WB~         WB~               EH~   WAF   WAF      WC~WB~      WB~         Nq=",
+      "1R33I  B",
+      "WB~         WB~               EH~   WAF   WAF      WC~WB~      WB~         N",
+      "HHH<1R33I  B ttp://go.msn.com/ZZR/EN_CA/0013WB~p\" targetWB~   \">webpersonaEH~/a>WAF>",
+      "WAFhref=\"WC~WB~/go.msWB~om/ZZR/ENY=",
+      "HHH\"1R33I  B _top\">Buy Books</a><br>",
+      "<a hreWB~http://goWB~   om/ZZR/EN_CAEH~16.WAF\" tWAFet=\"_tWC~WB~y HardWB~e and SofYff",
+      "HHH>1R33I  B =\"http://go.msn.com/ZZR/EN_CA/0WB~.asp\" tarWB~   top\">Travel<EH~<brWAF<a WAFf=\"httWC~WB~.msn.cWB~ZZR/EN_CAY",
+      "HHHa1R33I  B p\">Business & People Finder</a>WB~>",
+      "</fontWB~   </tr>",
+      "</tabEH~",
+      "</WAF",
+      "<tWAFidth=2WC~WB~p;</tdWB~td valignN",
+      "HHH=1R33I  B ble width=\"100%\" cellpadding=0 WB~lspacing=WB~   r><td colspaEH~><fWAF clWAF=\"s\"><WC~WB~ServicWB~/b></fontY33",
+      "1R33I  B eight=1 colspan=2 bgcolor=\"blacWB~<img src=WB~   //216.33.150EH~1/sWAFer.WAF\" widtWC~WB~ight=1WB~td></tr>",
+      "BB l1R  I  B ont class=\"s\">",
+      "<a href=\"http:/WC~.msn.com/WB~   _CA/0017.aspEH~arg   \"_tWAF>Web SWC~WB~/a><brWB~<a href=\"Y",
+      "BB n1R  I  B EN_CA/0008.asp\" target=\"_top\">SWC~ping</a><WB~   a href=\"httpEH~go.   .coWAFZR/EN_WC~   4.asp\"WB~rget=\"_toY"
+    ],
+    "recommended_tools": [
+      "Specialized piping software (CAESAR II, AutoPIPE)",
+      "Hex editor for binary analysis",
+      "This Python script for text extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "31 35 30 23 20 43 61 72 62 6f 6e 20 53 74 65 65",
+        "ascii": "150# Carbon Stee"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6c 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "l               "
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 20 20 20 20 20 20 20 30 38 30 30 30 30 20 20",
+        "ascii": "        080000  "
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 42 33 31 2e",
+        "ascii": "            B31."
+      },
+      {
+        "offset": "00000040",
+        "hex": "33 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "3               "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000060",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000070",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000080",
+        "hex": "41 42 44 48 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "ABDH            "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 41 42 44 48 4a 4b 4c 4d",
+        "ascii": "        ABDHJKLM"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "4e 50 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "NP              "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000d0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

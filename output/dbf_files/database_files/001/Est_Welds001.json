@@ -1,0 +1,15 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\Est_Welds001.dbf",
+    "filename": "Est_Welds001.dbf",
+    "size_bytes": 101062,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-05-22T16:16:55",
+    "export_timestamp": "2025-10-22T15:25:11.008650"
+  },
+  "analysis": {},
+  "content_preview": {},
+  "error": "DBF analysis error: invalid date b'\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00'"
+}

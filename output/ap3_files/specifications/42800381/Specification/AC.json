@@ -1,0 +1,34 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\42800381\\Specification\\AC.ap3",
+    "filename": "AC.ap3",
+    "size_bytes": 47,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-10-17T09:33:36",
+    "export_timestamp": "2025-10-22T15:25:19.686843"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 34 20 20 4e",
+        "ascii": "....Entries=4  N"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45",
+        "ascii": "on Destructive E"
+      },
+      {
+        "offset": "00000020",
+        "hex": "78 61 6d 0d 0a 35 25 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "xam..5%........"
+      }
+    ],
+    "preview_size": 47
+  },
+  "error": null
+}

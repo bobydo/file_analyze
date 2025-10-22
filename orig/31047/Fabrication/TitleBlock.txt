@@ -1,0 +1,27 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1200
+[Text nY]=130
+[Text Scale]=0.5787037
+[Text Line]=17474 OLD JEFFERSON HIGHWAY
+
+[Text Alignment]=L
+[Text nX]=1200
+[Text nY]=100
+[Text Scale]=0.5787037
+[Text Line]=PRAIRIEVILLE, LA 70769
+
+[Text Alignment]=L
+[Text nX]=1200
+[Text nY]=70
+[Text Scale]=0.5787037
+[Text Line]=PH. 225-673-3236 FX.225-673-5973
+
+[Logo Filename]=VOLKS LOGO.jpg
+[Logo Alignment]=L
+[Logo nX]=1200
+[Logo nY]=250
+[Logo Scale]=0.5787037
+[Logo Width]=496
+[Logo Height]=-82

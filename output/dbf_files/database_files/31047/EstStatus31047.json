@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\31047\\EstStatus31047.dbf",
+    "filename": "EstStatus31047.dbf",
+    "size_bytes": 237446,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:36:13",
+    "export_timestamp": "2025-10-22T15:25:11.114576"
+  },
+  "analysis": {
+    "record_count": 651,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "ISONAME",
+      "FILEDATE",
+      "PSPEC1",
+      "PSPEC2",
+      "PSPEC3",
+      "SERVICE",
+      "ISPEC",
+      "PTSPEC",
+      "TSPEC",
+      "IMPDATE",
+      "STATUS",
+      "REMARK"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "ISO-GS3-1011007.PCF",
+        "ISONAME": "ISO-GS3-1011007",
+        "FILEDATE": "",
+        "PSPEC1": "S1",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-12-12 12:31",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "FILENAME": "ISO-GS3-1011009.PCF",
+        "ISONAME": "ISO-GS3-1011009",
+        "FILEDATE": "",
+        "PSPEC1": "S1",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-12-12 12:31",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "FILENAME": "ISO-GS3-10110091.PCF",
+        "ISONAME": "",
+        "FILEDATE": "",
+        "PSPEC1": "S1",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "",
+        "STATUS": "",
+        "REMARK": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

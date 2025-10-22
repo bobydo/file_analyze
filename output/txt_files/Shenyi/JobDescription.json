@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\Shenyi\\JobDescription.txt",
+    "filename": "JobDescription.txt",
+    "size_bytes": 7,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2025-05-03T19:42:15.215636",
+    "export_timestamp": "2025-10-22T15:25:21.978769"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "TEST1\n",
+    "preview_length": 6,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

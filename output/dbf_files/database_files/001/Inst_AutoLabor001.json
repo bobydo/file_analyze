@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\Inst_AutoLabor001.dbf",
+    "filename": "Inst_AutoLabor001.dbf",
+    "size_bytes": 34367,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-05-22T16:23:32",
+    "export_timestamp": "2025-10-22T15:25:11.031256"
+  },
+  "analysis": {
+    "record_count": 135,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OEF09K  A P",
+        "QUANTITY": 9.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "2\"",
+        "SIZE_M": "50 mm",
+        "ALDESCR": "Bevel End",
+        "WALL_I": "XS(.218)",
+        "WALL_M": "XS(5.54)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OEE04Q  A P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": ".5\"",
+        "SIZE_M": "15 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Sch 160(.188)",
+        "WALL_M": "Sch 160(4.78)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OEE11G  A P",
+        "QUANTITY": 14.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "3\"",
+        "SIZE_M": "80 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Std(.216)",
+        "WALL_M": "Std(5.49)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\830474\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 62,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:17:29",
+    "export_timestamp": "2025-10-22T15:25:19.767814"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "43 6f 6e 6f 63 6f 50 68 69 6c 6c 69 70 73 20 53",
+        "ascii": "ConocoPhillips S"
+      },
+      {
+        "offset": "00000010",
+        "hex": "75 72 6d 6f 6e 74 20 32 0d 0a 45 2d 41 32 0d 0a",
+        "ascii": "urmont 2..E-A2.."
+      },
+      {
+        "offset": "00000020",
+        "hex": "31 30 30 30 30 0d 0a 20 31 34 35 31 0d 0a 30 0d",
+        "ascii": "10000.. 1451..0."
+      },
+      {
+        "offset": "00000030",
+        "hex": "0a 31 2e 31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": ".1.1.........."
+      }
+    ],
+    "preview_size": 62
+  },
+  "error": null
+}

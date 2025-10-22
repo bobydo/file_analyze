@@ -1,0 +1,60 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\UserCodes.dbf",
+    "filename": "UserCodes.dbf",
+    "size_bytes": 194981,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2017-06-12T11:34:37",
+    "export_timestamp": "2025-10-22T15:25:11.003740"
+  },
+  "analysis": {
+    "record_count": 889,
+    "field_count": 8,
+    "field_names": [
+      "ITEMCODE",
+      "DESCRIPT",
+      "MATERIAL",
+      "USERCODE",
+      "CLIENTCODE",
+      "PRICE",
+      "DISCFLAG",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "ITEMCODE": "PPP1600  G  000000    CBS.000",
+        "DESCRIPT": "8\" Pipe Std(.322)",
+        "MATERIAL": "CBS-A106-B SMLS",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "PRICE": 0.0,
+        "DISCFLAG": "",
+        "AUXCODE": "A"
+      },
+      {
+        "ITEMCODE": "ELE1600  G  0159000   EA~.000",
+        "DESCRIPT": "8\" 90 LR Elbow Std",
+        "MATERIAL": "EA~-A234-WPB",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "PRICE": 0.0,
+        "DISCFLAG": "",
+        "AUXCODE": "F"
+      },
+      {
+        "ITEMCODE": "BSF0416     000000   3EH~.000",
+        "DESCRIPT": "1/2\"x 8\" 3,000# Sockolet",
+        "MATERIAL": "EH~-A105",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "PRICE": 0.0,
+        "DISCFLAG": "",
+        "AUXCODE": "Q"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,80 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\30203\\Est_Connections30203.dbf",
+    "filename": "Est_Connections30203.dbf",
+    "size_bytes": 138966,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2017-06-12T11:34:37",
+    "export_timestamp": "2025-10-22T15:25:11.081868"
+  },
+  "analysis": {
+    "record_count": 476,
+    "field_count": 13,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "SIZE",
+      "E1",
+      "N1",
+      "U1",
+      "E2",
+      "N2",
+      "U2",
+      "ENDTYPE",
+      "POINT",
+      "CONTROL2",
+      "FILENAME2"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "o10201.idf",
+        "SIZE": 20,
+        "E1": -1206529.0,
+        "N1": 2.0,
+        "U1": 52914.0,
+        "E2": -1247248.0,
+        "N2": 2.0,
+        "U2": 54304.0,
+        "ENDTYPE": "L",
+        "POINT": null,
+        "CONTROL2": "",
+        "FILENAME2": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "o10201.idf",
+        "SIZE": 5,
+        "E1": -1485974.0,
+        "N1": -317482.0,
+        "U1": 91291.0,
+        "E2": -1485974.0,
+        "N2": -317482.0,
+        "U2": 89068.0,
+        "ENDTYPE": "T",
+        "POINT": null,
+        "CONTROL2": "",
+        "FILENAME2": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "o10201.idf",
+        "SIZE": 5,
+        "E1": -1485974.0,
+        "N1": -317482.0,
+        "U1": 17318.0,
+        "E2": -1485974.0,
+        "N2": -317482.0,
+        "U2": 19541.0,
+        "ENDTYPE": "T",
+        "POINT": null,
+        "CONTROL2": "",
+        "FILENAME2": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\001\\Installation\\JY-XDInfo.txt",
+    "filename": "JY-XDInfo.txt",
+    "size_bytes": 81,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-03-09T10:29:41",
+    "export_timestamp": "2025-10-22T15:25:22.036228"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "\n\nEntries=4 Extra Drawing Entry\n500 PSI\n350 C\nWool\n2 inch\nSteam\nGreen\n\n",
+    "preview_length": 71,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

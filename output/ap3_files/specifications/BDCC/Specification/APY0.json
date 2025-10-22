@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\BDCC\\Specification\\APY0.ap3",
+    "filename": "APY0.ap3",
+    "size_bytes": 62,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-02-27T13:30:22",
+    "export_timestamp": "2025-10-22T15:25:19.670737"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "42 6f 75 6e 64 72 79 20 44 61 6d 20 43 61 72 62",
+        "ascii": "Boundry Dam Carb"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 43 61 70 74 75 72 65 0d 0a 41 50 59 30",
+        "ascii": "on Capture..APY0"
+      },
+      {
+        "offset": "00000020",
+        "hex": "0d 0a 30 30 30 30 30 0d 0a 20 31 34 35 31 0d 0a",
+        "ascii": "..00000.. 1451.."
+      },
+      {
+        "offset": "00000030",
+        "hex": "30 0d 0a 31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "0..1.........."
+      }
+    ],
+    "preview_size": 62
+  },
+  "error": null
+}

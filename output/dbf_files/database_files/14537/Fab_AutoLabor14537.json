@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\14537\\Fab_AutoLabor14537.dbf",
+    "filename": "Fab_AutoLabor14537.dbf",
+    "size_bytes": 75782,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-06-06T07:58:44",
+    "export_timestamp": "2025-10-22T15:25:11.050424"
+  },
+  "analysis": {
+    "record_count": 299,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OHB06",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "TIG Root",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OEE06M  C P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "Chrome Group 2",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Sch 80(.179)",
+        "WALL_M": "Sch 80(4.55)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OHA06M",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "Preheat",
+        "WALL_I": "Sch 80(.179)",
+        "WALL_M": "Sch 80(4.55)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

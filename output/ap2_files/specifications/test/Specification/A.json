@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap2_files\\specifications\\test\\Specification\\A.ap2",
+    "filename": "A.ap2",
+    "size_bytes": 63,
+    "extension": ".ap2",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-03-19T10:52:29",
+    "export_timestamp": "2025-10-22T15:25:19.598213"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 32 20 4e 6f",
+        "ascii": "....Entries=2 No"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45 78",
+        "ascii": "n Destructive Ex"
+      },
+      {
+        "offset": "00000020",
+        "hex": "61 6d 0d 0a 31 30 30 25 20 42 2f 57 65 6c 64 73",
+        "ascii": "am..100% B/Welds"
+      },
+      {
+        "offset": "00000030",
+        "hex": "0d 0a 31 30 20 6d 6d 0d 0a 31 31 30 25 0d 0a",
+        "ascii": "..10 mm..110%.."
+      }
+    ],
+    "preview_size": 63
+  },
+  "error": null
+}

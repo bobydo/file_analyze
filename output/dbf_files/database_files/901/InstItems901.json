@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\901\\InstItems901.dbf",
+    "filename": "InstItems901.dbf",
+    "size_bytes": 6778,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-12-20T08:49:10",
+    "export_timestamp": "2025-10-22T15:25:11.262639"
+  },
+  "analysis": {
+    "record_count": 24,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1300  G  000000    CBS.000",
+        "ITEMLABEL": "1",
+        "DESCRIPT": "4\" Std(.237)*",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 17.756,
+        "WEIGHT": 31.933,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "RWC1309  G  000000    EA~.000",
+        "ITEMLABEL": "12",
+        "DESCRIPT": "4\"x 2\" Conc Reducer Std",
+        "MATERIAL": "A234-WPB",
+        "QUANTITY": 2.0,
+        "WEIGHT": 0.0,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "H"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "GSG0900     000000       .000",
+        "ITEMLABEL": "18",
+        "DESCRIPT": "2\" SP. WOUND GSKT,THK 1/8\" (3.2 mm),B16.20,RF,CL 600,316 SS-FG,CS-CR,316 SS IR",
+        "MATERIAL": "",
+        "QUANTITY": 5.0,
+        "WEIGHT": 0.0,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "V"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

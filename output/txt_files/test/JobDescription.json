@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\test\\JobDescription.txt",
+    "filename": "JobDescription.txt",
+    "size_bytes": 6,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2025-04-30T11:13:04.118860",
+    "export_timestamp": "2025-10-22T15:25:21.979318"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "test\n",
+    "preview_length": 5,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

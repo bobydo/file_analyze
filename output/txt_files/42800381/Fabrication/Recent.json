@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\42800381\\Fabrication\\Recent.txt",
+    "filename": "Recent.txt",
+    "size_bytes": 70,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-10-27T11:53:10",
+    "export_timestamp": "2025-10-22T15:25:22.009087"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "CM \n00001A.apf\n00001B.apf\n\n\n\nJY \n00001B.apf\n00001A.apf\n\n\n\n",
+    "preview_length": 58,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

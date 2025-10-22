@@ -1,0 +1,14 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1511
+[Text nY]=179
+[Text Scale]=1
+[Text Line]=
+
+
+[Logo Filename]=statoil logo.jpg
+[Logo nX]=1550
+[Logo nY]=250
+[Logo Width]=500
+[Logo Height]=-180

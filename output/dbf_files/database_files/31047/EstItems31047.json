@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\31047\\EstItems31047.dbf",
+    "filename": "EstItems31047.dbf",
+    "size_bytes": 240050,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-12-19T11:08:41",
+    "export_timestamp": "2025-10-22T15:25:11.112477"
+  },
+  "analysis": {
+    "record_count": 496,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "IDFDESCR",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "AUXCODE",
+      "FILENAME"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0900  G  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "2\" Std(.154)  BE x BE",
+        "IDFDESCR": "PIPE, SCH 10S, ASTM A 312 Gr TP304L, ELC",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 96.0,
+        "WEIGHT": 58.448,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "ISO-GS3-1011007.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0900  G  000000    CBS.000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "2\" Std(.154)  BE x BE",
+        "IDFDESCR": "PIPE, SCH 10S, ASTM A 312 Gr TP304L, ELC",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 32.081,
+        "WEIGHT": 19.532,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "ISO-GS3-1011007.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0900  G  000000    CBS.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": "2\" Std(.154)  BE x BE",
+        "IDFDESCR": "PIPE, SCH 10S, ASTM A 312 Gr TP304L, ELC",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 418.92,
+        "WEIGHT": 255.051,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "ISO-GS3-1011007.PCF"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\153007\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 528,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2013-01-14T09:21:38",
+    "export_timestamp": "2025-10-22T15:25:22.025011"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1550\n[Text nY]=206\n[Text Scale]=1\n[Text Line]=RIVER PARISH\n\n[Text Alignment]=L\n[Text nX]=1475\n[Text nY]=156\n[Text Scale]=1\n[Text Line]=CONTRACTORS, INC.\n\n[Text Alignment]=L\n[Text nX]=1602\n[Text nY]=109\n[Text Scale]=0.5787037\n[Text Line]=P.O. BOX 2650\n\n[Text Alignment]=L\n[Text nX]=1570\n[Text nY]=71\n[Text Scale]=0.5787037\n[Text Line]=RESERVE, LA 70084\n\n\n[Logo Filename]=rpclogo.jpg\n[Logo nX]=-1550\n[Logo nY]=250\n[Logo Width]=500\n[Logo Height]=-180\n",
+    "preview_length": 496,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

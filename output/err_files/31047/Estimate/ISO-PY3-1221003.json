@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\err_files\\31047\\Estimate\\ISO-PY3-1221003.ERR",
+    "filename": "ISO-PY3-1221003.ERR",
+    "size_bytes": 79,
+    "extension": ".err",
+    "file_type": "error_log",
+    "is_binary": false,
+    "last_modified": "2012-12-13T06:10:22",
+    "export_timestamp": "2025-10-22T15:25:21.936750"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "#1\n\nProcessing ID: AT_IEIKWTE0_GAG  Error finding the coordinates of NP1.wc\n",
+    "preview_length": 76,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

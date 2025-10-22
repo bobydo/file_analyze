@@ -1,0 +1,30 @@
+; "010-CBS-G00602-000001-A.pmp" Pipe Machine Program file produced by AcornPipe ver 8-421
+; Item A 10" Pipe Std(.365)
+
+[Program Options]
+Units=INCH
+Offset=Workpoint
+
+[Machine Options]
+XAxisReversed=N
+
+[Pipe Data]
+Filename=010-CBS-G00602-000001-A.pmp
+PipeDiameter=10.750
+WallThickness=0.365
+Length=23.681
+CuttingMethod=Oxy/fuel
+PartNumber=
+Specification=A
+Material=CBS - A106-B SMLS
+Quantity=1
+
+[End1]
+Type=Straight
+WeldPrepAngle=37.5
+
+
+[End2]
+Type=Straight
+WeldPrepAngle=37.5
+

@@ -1,0 +1,130 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\spc_files\\specifications\\001\\Specification\\VIC.spc",
+    "filename": "VIC.spc",
+    "size_bytes": 14976,
+    "extension": ".spc",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2014-10-06T10:39:48",
+    "export_timestamp": "2025-10-22T15:25:12.930736"
+  },
+  "analysis": {
+    "type": "SPC Specification File",
+    "format": "Binary with embedded text",
+    "size": 14976,
+    "readable_text_segments": [
+      "Refinery Expansion",
+      "ABP-98",
+      "00000",
+      "1456080000",
+      "G         FG        DF        CD        C         EF",
+      "W         TUV       UV        F                   AJ",
+      "I         T         U         V",
+      "1   A",
+      "EA~         EH~                           CBS                              Nq=",
+      "1   A",
+      "EA~         EH~                           CBS                              N",
+      "1   A",
+      "EA~         EH~                           CBS                              Y=",
+      "1   A",
+      "EA~         EH~                           CBS                              Yff",
+      "1   A",
+      "EA~         EH~                           CBS                              Y",
+      "1   A",
+      "EA~         EH~                           CBS                              N",
+      "1   A"
+    ],
+    "recommended_tools": [
+      "Specialized piping software (CAESAR II, AutoPIPE)",
+      "Hex editor for binary analysis",
+      "This Python script for text extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "52 65 66 69 6e 65 72 79 20 45 78 70 61 6e 73 69",
+        "ascii": "Refinery Expansi"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 0d 0a 41 42 50 2d 39 38 0d 0a 30 30 30 30",
+        "ascii": "on..ABP-98..0000"
+      },
+      {
+        "offset": "00000020",
+        "hex": "30 0d 0a 20 31 34 35 36 30 38 30 30 30 30 0d 0a",
+        "ascii": "0.. 1456080000.."
+      },
+      {
+        "offset": "00000030",
+        "hex": "0d 0a 0d 0a 0d 0a 00 00 00 00 00 00 20 20 20 20",
+        "ascii": "............    "
+      },
+      {
+        "offset": "00000040",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000050",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000060",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000070",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000080",
+        "hex": "47 4b 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "GK.............."
+      },
+      {
+        "offset": "00000090",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "000000a0",
+        "hex": "00 00 00 00 00 00 00 00 47 4b 00 00 00 00 00 00",
+        "ascii": "........GK......"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

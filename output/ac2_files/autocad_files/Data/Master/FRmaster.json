@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac2_files\\autocad_files\\Data\\Master\\FRmaster.ac2",
+    "filename": "FRmaster.ac2",
+    "size_bytes": 4113,
+    "extension": ".ac2",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2013-12-20T07:21:16",
+    "export_timestamp": "2025-10-22T15:25:11.610135"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "6e 00 74 00 65 00 6e 00 74 00 2e 00 49 00 45 00",
+        "ascii": "n.t.e.n.t...I.E."
+      },
+      {
+        "offset": "00000010",
+        "hex": "35 00 5c 00 47 00 50 00 32 00 4e 00 30 00 44 00",
+        "ascii": "5.\\.G.P.2.N.0.D."
+      },
+      {
+        "offset": "00000020",
+        "hex": "59 00 52 00 5c 00 63 00 72 00 6f 00 73 00 73 00",
+        "ascii": "Y.R.\\.c.r.o.s.s."
+      },
+      {
+        "offset": "00000030",
+        "hex": "75 00 74 00 65 00 73 00 5b 00 31 00 5d 00 2e 00",
+        "ascii": "u.t.e.s.[.1.]..."
+      },
+      {
+        "offset": "00000040",
+        "hex": "68 00 74 00 6d 00 63 81 b0 00 9a 00 47 00 00 69",
+        "ascii": "h.t.m.c.....G..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "4e 00 44 46 6c 61 6e 67 65 20 52 61 74 69 6e 67",
+        "ascii": "N.DFlange Rating"
+      },
+      {
+        "offset": "00000070",
+        "hex": "73 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "s               "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 1d 00 04 00 02 00 14 00 01",
+        "ascii": "       ........."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 43 6f 64 65 20 4c 65 74 74 65 72 20 20 20 20",
+        "ascii": ".Code Letter    "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 52 61 74 69 6e 67 20 20 20 20 20",
+        "ascii": "     Rating     "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 49 6e 20 55 73 65 3f",
+        "ascii": "         In Use?"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

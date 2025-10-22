@@ -1,0 +1,21 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=2283
+[Text nY]=334
+[Text Scale]=1.3
+[Text Line]=
+
+
+[Logo Filename]=PennWest.jpg
+[Logo nX]=3650
+[Logo nY]=395
+[Logo Width]=390
+[Logo Height]=-130
+
+
+[Logo Filename]=Karach.jpg
+[Logo nX]=2235
+[Logo nY]=390
+[Logo Width]=390
+[Logo Height]=-300

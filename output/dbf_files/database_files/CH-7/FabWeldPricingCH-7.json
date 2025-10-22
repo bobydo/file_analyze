@@ -1,0 +1,29 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\CH-7\\FabWeldPricingCH-7.dbf",
+    "filename": "FabWeldPricingCH-7.dbf",
+    "size_bytes": 290,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-04-07T21:31:14",
+    "export_timestamp": "2025-10-22T15:25:11.335254"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 8,
+    "field_names": [
+      "WCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "WDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

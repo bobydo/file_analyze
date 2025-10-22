@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac2_files\\autocad_files\\Data\\Master\\ESMaster.ac2",
+    "filename": "ESMaster.ac2",
+    "size_bytes": 3365,
+    "extension": ".ac2",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2013-01-25T14:48:12",
+    "export_timestamp": "2025-10-22T15:25:11.607149"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "30 37 2d 33 31 2d 31 39 39 39 20 30 39 3a 31 34",
+        "ascii": "07-31-1999 09:14"
+      },
+      {
+        "offset": "00000010",
+        "hex": "3a 30 39 2e 32 37 20 2d 20 53 6f 6e 79 20 49 6e",
+        "ascii": ":09.27 - Sony In"
+      },
+      {
+        "offset": "00000020",
+        "hex": "74 65 72 6e 61 6c 20 4d 6f 64 65 6d 20 28 4b 35",
+        "ascii": "ternal Modem (K5"
+      },
+      {
+        "offset": "00000030",
+        "hex": "36 66 6c 65 78 2b 56 2e 39 30 29 20 69 6e 20 75",
+        "ascii": "6flex+V.90) in u"
+      },
+      {
+        "offset": "00000040",
+        "hex": "73 65 2e 0d 0a 30 37 2d 33 31 2d 31 39 00 00 20",
+        "ascii": "se...07-31-19.. "
+      },
+      {
+        "offset": "00000050",
+        "hex": "69 6e 63 68 20 6d 6d 20 20 20 20 00 00 80 3f 6f",
+        "ascii": "inch mm    ...?o"
+      },
+      {
+        "offset": "00000060",
+        "hex": "64 65 6d 53 57 2f 54 48 20 54 79 70 65 20 45 6c",
+        "ascii": "demSW/TH Type El"
+      },
+      {
+        "offset": "00000070",
+        "hex": "62 6f 77 20 54 65 6d 70 6c 61 74 65 20 20 20 20",
+        "ascii": "bow Template    "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 19 00 14 00 04 00 14 00 10",
+        "ascii": "       ........."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 44 65 73 63 72 69 70 74 69 6f 6e",
+        "ascii": "     Description"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 4d 61 74 65 72 69 61",
+        "ascii": "         Materia"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

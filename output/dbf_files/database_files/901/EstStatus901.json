@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\901\\EstStatus901.dbf",
+    "filename": "EstStatus901.dbf",
+    "size_bytes": 7762,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:38:07",
+    "export_timestamp": "2025-10-22T15:25:11.252150"
+  },
+  "analysis": {
+    "record_count": 20,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "ISONAME",
+      "FILEDATE",
+      "PSPEC1",
+      "PSPEC2",
+      "PSPEC3",
+      "SERVICE",
+      "ISPEC",
+      "PTSPEC",
+      "TSPEC",
+      "IMPDATE",
+      "STATUS",
+      "REMARK"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "28100-PE-0036-05.pcf",
+        "ISONAME": "28100-PE-0036-05",
+        "FILEDATE": "",
+        "PSPEC1": "AAQD0",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-09-26 18:28",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "FILENAME": "28100-PE-0036-06.pcf",
+        "ISONAME": "28100-PE-0036-06",
+        "FILEDATE": "",
+        "PSPEC1": "AAQD0",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-09-26 18:28",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "FILENAME": "28400-BD-0002-01.pcf",
+        "ISONAME": "28400-BD-0002-01",
+        "FILEDATE": "",
+        "PSPEC1": "AARB0",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-09-26 18:28",
+        "STATUS": "",
+        "REMARK": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

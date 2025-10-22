@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\901\\EstItems901.dbf",
+    "filename": "EstItems901.dbf",
+    "size_bytes": 64721,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:37:31",
+    "export_timestamp": "2025-10-22T15:25:11.250790"
+  },
+  "analysis": {
+    "record_count": 133,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "IDFDESCR",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "AUXCODE",
+      "FILENAME"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1100  G  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "3\" Std(.216)  BE x BE",
+        "IDFDESCR": "PIPE , B36.10M , BE , ASTM A106-B , SMLS, NACE MR0175/ISO15156 , S-160",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 1397.638,
+        "WEIGHT": 1764.729,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "28100-PE-0036-05.pcf"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "ADB0000     000000       .000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "DIRECTIONAL ANCHOR WITH SHOE",
+        "IDFDESCR": "DIRECTIONAL ANCHOR WITH SHOE",
+        "MATERIAL": "",
+        "QUANTITY": 1.0,
+        "WEIGHT": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "X",
+        "FILENAME": "28100-PE-0036-05.pcf"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "ADB0000     000000       .000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": "GUIDE WITH SHOE",
+        "IDFDESCR": "GUIDE WITH SHOE",
+        "MATERIAL": "",
+        "QUANTITY": 3.0,
+        "WEIGHT": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "X",
+        "FILENAME": "28100-PE-0036-05.pcf"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

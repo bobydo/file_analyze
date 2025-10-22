@@ -1,0 +1,60 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\830500\\FabWeldPricing830500.dbf",
+    "filename": "FabWeldPricing830500.dbf",
+    "size_bytes": 3625,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-03-26T14:36:14",
+    "export_timestamp": "2025-10-22T15:25:11.240201"
+  },
+  "analysis": {
+    "record_count": 29,
+    "field_count": 8,
+    "field_names": [
+      "WCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "WDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": [
+      {
+        "WCODE": "A_27G",
+        "SIZE_I": "30\"",
+        "SIZE_M": "750 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "PRICE": 0.0,
+        "FACTOR": null
+      },
+      {
+        "WCODE": "A_27K",
+        "SIZE_I": "30\"",
+        "SIZE_M": "750 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "XS(.500)",
+        "WALL_M": "XS(12.70)",
+        "PRICE": 0.0,
+        "FACTOR": null
+      },
+      {
+        "WCODE": "A_09G",
+        "SIZE_I": "2\"",
+        "SIZE_M": "50 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "Std(.154)",
+        "WALL_M": "Std(3.91)",
+        "PRICE": 0.0,
+        "FACTOR": null
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

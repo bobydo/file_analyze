@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\1.0\\Fabrication\\Recent.txt",
+    "filename": "Recent.txt",
+    "size_bytes": 60,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2015-01-22T17:22:33",
+    "export_timestamp": "2025-10-22T15:25:22.031316"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "DEF\n000001.apf\n      .apf\n\n\n\nJY \n000001.apf\n\n\n\n\n",
+    "preview_length": 48,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

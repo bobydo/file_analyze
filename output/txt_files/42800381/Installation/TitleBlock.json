@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\42800381\\Installation\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 209,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-07-14T09:53:30",
+    "export_timestamp": "2025-10-22T15:25:22.012862"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1511\n[Text nY]=179\n[Text Scale]=1\n[Text Line]=\n\n\n[Logo Filename]=statoil logo.jpg\n[Logo nX]=1550\n[Logo nY]=250\n[Logo Width]=500\n[Logo Height]=-180\n",
+    "preview_length": 195,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

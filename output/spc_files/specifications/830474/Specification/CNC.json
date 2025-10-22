@@ -1,0 +1,130 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\spc_files\\specifications\\830474\\Specification\\CNC.spc",
+    "filename": "CNC.spc",
+    "size_bytes": 14976,
+    "extension": ".spc",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-02-16T13:29:00",
+    "export_timestamp": "2025-10-22T15:25:12.771608"
+  },
+  "analysis": {
+    "type": "SPC Specification File",
+    "format": "Binary with embedded text",
+    "size": 14976,
+    "readable_text_segments": [
+      "600# Carbon Steel                       030000              B31.3                                                               ABDHQR                                  ABDHJKLMNPQR                                                                            5                                       R                                       36                                                                                                                                                                              S         G         FG                  CD        G         FM                  DGL                                             S         E         GH        CEFGHR    MNR                 KLM                 G                                               I         S         W                                                           BCGL      BGPS      RU",
+      "5R33I  B",
+      "UQ~         UV~UQS                  UES   UES         UV~      UV~         Nq=",
+      "5R33I  B",
+      "UQ~         UV~UQS                  UES   UES         UV~      UV~         N",
+      "LL <5R33I  B ttp://go.msn.com/ZZR/EN_CA/0   UQ~         UV~UQS                  UES   UES         UV~      UV~   ZZR   Y=",
+      "LLQ\"5R33I  B _top\">Buy Books</a><br>",
+      "<a    UQ~         UV~UQS   ZZR            UES   UES         UV~      UV~      SofYff",
+      "LLQ>5R33I  B =\"http://go.msn.com/ZZR/EN_CA/0UQ~         UV~UQS                  UES   UES         UV~      UV~ZZR      Y",
+      "LLQa5R33I  B p\">Business & People Finder<   UQ~         UV~UQS                  UES   UES         UV~      UV~         N",
+      "LLQ=5R33I  B ble width=\"100%\" cellpadding   UQ~         UV~UQS                  UES   UES         UV~Ser   UV~         Y33",
+      "5R33I  B eight=1 colspan=2 bgcolor=\"b   UQ~         UV~UQS                  UES   UES         UV~      UV~         Y",
+      "LL l5R  I  B ont class=\"s\">",
+      "<a href=\"htt   UQ~         UV~UQS                        UES                              Y",
+      "LL n5R  I  B EN_CA/0008.asp\" target=\"_top   UQ~         UV~                           UESZR/EN_                        Y",
+      "LL n5R  I  B ce</a><br>",
+      "<a href=\"http://   UQ~      ZR/UV~                           UES                              N",
+      "LL E5R  I  B .asp\" target=\"_top\">Web Comm   UQ~         UV~                           UESEN_CA/                        Y",
+      "5R  I  B",
+      "UQ~         UV~                           UES                              N"
+    ],
+    "recommended_tools": [
+      "Specialized piping software (CAESAR II, AutoPIPE)",
+      "Hex editor for binary analysis",
+      "This Python script for text extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "36 30 30 23 20 43 61 72 62 6f 6e 20 53 74 65 65",
+        "ascii": "600# Carbon Stee"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6c 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "l               "
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 20 20 20 20 20 20 20 30 33 30 30 30 30 20 20",
+        "ascii": "        030000  "
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 42 33 31 2e",
+        "ascii": "            B31."
+      },
+      {
+        "offset": "00000040",
+        "hex": "33 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "3               "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000060",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000070",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000080",
+        "hex": "41 42 44 48 51 52 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "ABDHQR          "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 41 42 44 48 4a 4b 4c 4d",
+        "ascii": "        ABDHJKLM"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "4e 50 51 52 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "NPQR            "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000d0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

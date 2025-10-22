@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\830474\\InstItemsSur2.dbf",
+    "filename": "InstItemsSur2.dbf",
+    "size_bytes": 103503,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2011-12-06T13:15:50",
+    "export_timestamp": "2025-10-22T15:25:11.217598"
+  },
+  "analysis": {
+    "record_count": 384,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "0DR1-1",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0900  K  000000    CBS.000",
+        "ITEMLABEL": "1",
+        "DESCRIPT": "2\" XS(.218)",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 2.054,
+        "WEIGHT": 0.86,
+        "SHOPQTY": 252.895,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "0DR1-1",
+        "REVISION": "00",
+        "ITEMCODE": "BSF0609     000000   6EG~.000",
+        "ITEMLABEL": "5",
+        "DESCRIPT": "1\"x 2\" 6,000# Sockolet",
+        "MATERIAL": "A105N",
+        "QUANTITY": 0.0,
+        "WEIGHT": 1.0,
+        "SHOPQTY": 1.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "Q"
+      },
+      {
+        "CONTROLNO": "0DR1-1",
+        "REVISION": "00",
+        "ITEMCODE": "CSG0600     000000    EG~.000",
+        "ITEMLABEL": "6",
+        "DESCRIPT": "1\" TH Cap",
+        "MATERIAL": "A105N",
+        "QUANTITY": 0.0,
+        "WEIGHT": 1.0,
+        "SHOPQTY": 1.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "R"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

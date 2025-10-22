@@ -1,0 +1,130 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\spc_files\\specifications\\Shenyi\\Specification\\CAAG2.spc",
+    "filename": "CAAG2.spc",
+    "size_bytes": 16128,
+    "extension": ".spc",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-09-13T15:50:41",
+    "export_timestamp": "2025-10-22T15:25:12.716044"
+  },
+  "analysis": {
+    "type": "SPC Specification File",
+    "format": "Binary with embedded text",
+    "size": 16128,
+    "readable_text_segments": [
+      "CAAG2                                   080000              B31.3                                                               GIJKMQR                                 EFGIJKLMNPQR                                                                            135                                     FR                                      36                                                                                                                                                                              P         GH        FGIJ      DFHI      CDGH      CEGH      EFIJKPQR            BGI                                             P         E         AGHLRX    CEFGJMPS  DNOP      CD        DEFHIJKX            BFGL                                            I         ST        LMW       S                                                 BCGW      EGIL      ABCDHIJ",
+      "2&curmbox=ACTIVE&_lang=\"><font class=\"sbnub\">Inbox</font></a></td>",
+      "<td  bgcolor=\"#336699\" style=\"border-right:solid white 1px;pN",
+      "1R36ABBA",
+      "EA~         EH~EAS            EH~   CBS   CBS         EH~      EH~         Nq=",
+      "1R36ABBA",
+      "EA~         EH~EAS            EH~   CBS   CBS         EH~      EH~         N",
+      "MM <1R36ABBA ttp://go.msn.com/ZZR/EN_CA/0   EA~         EH~EAS            EH~   CBS   CBS         EH~      EH~   ZZR   Y=",
+      "RRR\"1R66ABAA _top\">Buy Books</a><br>",
+      "<a    EAS         EH~EAS   ZZR      EH~   CBS   CBS         EH~      EH~      SofYff",
+      "RRR>1R66ABAA =\"http://go.msn.com/ZZR/EN_CA/0EAS         EH~EAS            EH~   CBS   CBS         EH~      EH~ZZR      Y",
+      "QQRa1R66ABAA p\">Business & People Finder<   EAS         EH~EAS            EH~   CBS   CBS         EH~      EH~         N",
+      "MMQ=1R33ABBA ble width=\"100%\" cellpadding   EA~         EH~EAS            EH~   CBS   CBS         EH~Ser   EH~         Y33",
+      "1R33ABAA eight=1 colspan=2 bgcolor=\"b   EAS         EH~EAS            EH~   CBS   CBS         EH~      EH~         Y",
+      "QQ l1R  A AB ont class=\"s\">",
+      "<a href=\"htt   EAS         EH~EAS            EH~   CBS   CBS         EH~      EH~         Y",
+      "MM n1R  A AB EN_CA/0008.asp\" target=\"_top   EAS         EH~EAS            EH~   CBS   CBSZR/EN_   EH~      EH~         Y",
+      "MM n1R  A AB ce</a><br>",
+      "<a href=\"http://   EAS      ZR/EH~EAS            EH~   CBS   CBS         EH~      EH~         N",
+      "II E1R3 A BB .asp\" target=\"_top\">Web Comm   EA~         EH~EAS            EH~   CBS   CBSEN_CA/   EH~      EH~         Y"
+    ],
+    "recommended_tools": [
+      "Specialized piping software (CAESAR II, AutoPIPE)",
+      "Hex editor for binary analysis",
+      "This Python script for text extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "43 41 41 47 32 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "CAAG2           "
+      },
+      {
+        "offset": "00000010",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 20 20 20 20 20 20 20 30 38 30 30 30 30 20 20",
+        "ascii": "        080000  "
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 42 33 31 2e",
+        "ascii": "            B31."
+      },
+      {
+        "offset": "00000040",
+        "hex": "33 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "3               "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000060",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000070",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000080",
+        "hex": "47 49 4a 4b 4d 51 52 20 20 20 20 20 20 20 20 20",
+        "ascii": "GIJKMQR         "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 45 46 47 49 4a 4b 4c 4d",
+        "ascii": "        EFGIJKLM"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "4e 50 51 52 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "NPQR            "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000d0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

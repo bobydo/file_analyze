@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\pmp_files\\001\\PMP\\002-CBS-K01106-000042-J.pmp",
+    "filename": "002-CBS-K01106-000042-J.pmp",
+    "size_bytes": 668,
+    "extension": ".pmp",
+    "file_type": "project_management",
+    "is_binary": true,
+    "last_modified": "2011-02-18T11:26:48",
+    "export_timestamp": "2025-10-22T15:25:20.012943"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "3b 20 22 30 30 32 2d 43 42 53 2d 4b 30 31 31 30",
+        "ascii": "; \"002-CBS-K0110"
+      },
+      {
+        "offset": "00000010",
+        "hex": "36 2d 30 30 30 30 34 32 2d 4a 2e 70 6d 70 22 20",
+        "ascii": "6-000042-J.pmp\" "
+      },
+      {
+        "offset": "00000020",
+        "hex": "50 69 70 65 20 4d 61 63 68 69 6e 65 20 50 72 6f",
+        "ascii": "Pipe Machine Pro"
+      },
+      {
+        "offset": "00000030",
+        "hex": "67 72 61 6d 20 66 69 6c 65 20 70 72 6f 64 75 63",
+        "ascii": "gram file produc"
+      },
+      {
+        "offset": "00000040",
+        "hex": "65 64 20 62 79 20 41 63 6f 72 6e 50 69 70 65 20",
+        "ascii": "ed by AcornPipe "
+      },
+      {
+        "offset": "00000050",
+        "hex": "76 65 72 20 38 2d 34 32 31 0d 0a 3b 20 49 74 65",
+        "ascii": "ver 8-421..; Ite"
+      },
+      {
+        "offset": "00000060",
+        "hex": "6d 20 4a 20 32 22 20 58 53 28 2e 32 31 38 29 20",
+        "ascii": "m J 2\" XS(.218) "
+      },
+      {
+        "offset": "00000070",
+        "hex": "44 2f 4c 65 67 20 6f 6e 20 33 22 20 53 63 68 20",
+        "ascii": "D/Leg on 3\" Sch "
+      },
+      {
+        "offset": "00000080",
+        "hex": "34 30 20 78 20 50 45 3c 31 30 39 39 3e 20 20 31",
+        "ascii": "40 x PE<1099>  1"
+      },
+      {
+        "offset": "00000090",
+        "hex": "31 30 36 0d 0a 0d 0a 5b 50 72 6f 67 72 61 6d 20",
+        "ascii": "106....[Program "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "4f 70 74 69 6f 6e 73 5d 0d 0a 55 6e 69 74 73 3d",
+        "ascii": "Options]..Units="
+      },
+      {
+        "offset": "000000b0",
+        "hex": "49 4e 43 48 0d 0a 4f 66 66 73 65 74 3d 57 6f 72",
+        "ascii": "INCH..Offset=Wor"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "6b 70 6f 69 6e 74 0d 0a 0d 0a 5b 4d 61 63 68 69",
+        "ascii": "kpoint....[Machi"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "6e 65 20 4f 70 74 69 6f 6e 73 5d 0d 0a 58 41 78",
+        "ascii": "ne Options]..XAx"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "69 73 52 65 76 65 72 73 65 64 3d 4e 0d 0a 0d 0a",
+        "ascii": "isReversed=N...."
+      },
+      {
+        "offset": "000000f0",
+        "hex": "5b 50 69 70 65 20 44 61 74 61 5d 0d 0a 46 69 6c",
+        "ascii": "[Pipe Data]..Fil"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

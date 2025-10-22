@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\3009-001\\Specification\\BTA.ap3",
+    "filename": "BTA.ap3",
+    "size_bytes": 291,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-03-22T11:04:52",
+    "export_timestamp": "2025-10-22T15:25:19.728410"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 39 20 20 4e",
+        "ascii": "....Entries=9  N"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45",
+        "ascii": "on Destructive E"
+      },
+      {
+        "offset": "00000020",
+        "hex": "78 61 6d 0d 0a 31 30 30 25 0d 0a 4e 4f 0d 0a 4e",
+        "ascii": "xam..100%..NO..N"
+      },
+      {
+        "offset": "00000030",
+        "hex": "4f 0d 0a 31 30 30 25 20 53 57 2f 42 52 0d 0a 4e",
+        "ascii": "O..100% SW/BR..N"
+      },
+      {
+        "offset": "00000040",
+        "hex": "4f 0d 0a 4e 4f 0d 0a 4e 4f 0d 0a 4e 4f 0d 0a 31",
+        "ascii": "O..NO..NO..NO..1"
+      },
+      {
+        "offset": "00000050",
+        "hex": "30 30 25 0d 0a 0d 0a 0d 0a 45 6e 74 72 69 65 73",
+        "ascii": "00%......Entries"
+      },
+      {
+        "offset": "00000060",
+        "hex": "3d 35 20 20 57 65 6c 64 69 6e 67 20 50 72 6f 63",
+        "ascii": "=5  Welding Proc"
+      },
+      {
+        "offset": "00000070",
+        "hex": "65 64 75 72 65 73 0d 0a 43 45 53 2d 30 36 38 0d",
+        "ascii": "edures..CES-068."
+      },
+      {
+        "offset": "00000080",
+        "hex": "0a 43 45 53 2d 30 38 39 0d 0a 43 45 53 2d 31 38",
+        "ascii": ".CES-089..CES-18"
+      },
+      {
+        "offset": "00000090",
+        "hex": "38 0d 0a 43 45 53 2d 32 36 36 0d 0a 31 31 2d 36",
+        "ascii": "8..CES-266..11-6"
+      },
+      {
+        "offset": "000000a0",
+        "hex": "38 2d 30 31 0d 0a 0d 0a 0d 0a 45 6e 74 72 69 65",
+        "ascii": "8-01......Entrie"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "73 3d 35 20 20 53 74 72 65 73 73 2d 52 65 6c 69",
+        "ascii": "s=5  Stress-Reli"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "65 76 65 20 50 72 6f 63 65 64 75 72 65 73 0d 0a",
+        "ascii": "eve Procedures.."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "43 45 53 2d 32 35 35 0d 0a 43 45 53 2d 32 35 36",
+        "ascii": "CES-255..CES-256"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "0d 0a 31 31 2d 36 38 2d 30 32 0d 0a 0d 0a 0d 0a",
+        "ascii": "..11-68-02......"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 34 20 20 49",
+        "ascii": "....Entries=4  I"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

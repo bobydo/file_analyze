@@ -1,0 +1,48 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\Fab_XLaborBDCC.dbf",
+    "filename": "Fab_XLaborBDCC.dbf",
+    "size_bytes": 183132,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-03-01T10:15:40",
+    "export_timestamp": "2025-10-22T15:25:11.312043"
+  },
+  "analysis": {
+    "record_count": 2404,
+    "field_count": 5,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "XLCODE",
+      "XLDESCR",
+      "QUANTITY"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "03350A",
+        "REVISION": "00",
+        "XLCODE": "09",
+        "XLDESCR": "Painting",
+        "QUANTITY": 11.0
+      },
+      {
+        "CONTROLNO": "03315A",
+        "REVISION": "00",
+        "XLCODE": "00",
+        "XLDESCR": "Ex-ray",
+        "QUANTITY": 7.0
+      },
+      {
+        "CONTROLNO": "03315B",
+        "REVISION": "00",
+        "XLCODE": "00",
+        "XLDESCR": "Ex-ray",
+        "QUANTITY": 4.0
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\830474\\Fab_AutoLabor830474.dbf",
+    "filename": "Fab_AutoLabor830474.dbf",
+    "size_bytes": 1149058,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-01-14T12:39:06",
+    "export_timestamp": "2025-10-22T15:25:11.197780"
+  },
+  "analysis": {
+    "record_count": 4545,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "00IA1B",
+        "REVISION": "00",
+        "ALCODE": "OEE06K  A P",
+        "QUANTITY": 2.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "XS(.179)",
+        "WALL_M": "XS(4.55)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "00IA1B",
+        "REVISION": "00",
+        "ALCODE": "OLA06  3  P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "Flange Prot. 300#",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "00IA1B",
+        "REVISION": "00",
+        "ALCODE": "OLB05     P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": ".75\"",
+        "SIZE_M": "20 mm",
+        "ALDESCR": "Open End Prot.",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,118 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\MTR.AC3",
+    "filename": "MTR.AC3",
+    "size_bytes": 3508,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2013-03-23T10:39:08",
+    "export_timestamp": "2025-10-22T15:25:12.078532"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 3508,
+    "specifications": [
+      "inch  mm"
+    ],
+    "dimensions": [
+      "304 SS                                                                                              ?"
+    ],
+    "other_text": [
+      "Letter                   Material                 In Use?",
+      "A                        A312-TP304               B                        A312-TP304H              C                        A312-TP304L              D                        A312-TP304N              E                        A312-TP304/304L          F                        A358-TP304 CL1           G                        A358-TP304 CL2           H                        A358-TP304 CL5           I                        A358-TP304L CL1          J                        A358-TP304L CL2          K                        A358-TP304L CL5          L                        A358-TP304H CL1          M                        A358-TP304H CL2          N                        A358-TP304/304L CL1      O                        A358-TP304/304L CL2      P                        A403-WP304               Q                        A403-WP304H              R                        A403-WP304L              S                        A403-CR304N              T                        A403-WP304/304L          U                        A403-CR304               V                        A403-CR304L              W                        A182-F304                X                        A182-F304H               Y                        A182-F304L               Z                        A182-F304N               a                        A182-F304/304L           b                                                 c                        A240-F304                d                        A240-F304H               e                        A240-F304L               f                        A240-F304N               g                        A240-F304/304L           h                                                 i                                                 j                                                 k                                                 l                                                 m                                                 n                                                 o                                                 p                                                 q                                                 r                                                 s                                                 t                                                 u                                                 v                                                 w                                                 x                                                 y                                                 z                                                 0                                                 1                                                 2                                                 3                                                 4                                                 5                                                 6                                                 7                                                 8                                                 9"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000010",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000020",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000030",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000040",
+        "hex": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 69",
+        "ascii": "...............i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "00 00 00 33 30 34 20 53 53 20 20 20 20 20 20 20",
+        "ascii": "...304 SS       "
+      },
+      {
+        "offset": "00000070",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 3f 00 03 00 02 00 19 00 01",
+        "ascii": "       ?........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 4d 61 74 65 72 69",
+        "ascii": "          Materi"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "61 6c 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "al              "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac2_files\\autocad_files\\Data\\Master\\EPmaster.ac2",
+    "filename": "EPmaster.ac2",
+    "size_bytes": 2345,
+    "extension": ".ac2",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2010-01-19T12:26:30",
+    "export_timestamp": "2025-10-22T15:25:11.606107"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "00 00 9e 00 57 00 49 00 4e 00 44 00 4f 00 57 00",
+        "ascii": "....W.I.N.D.O.W."
+      },
+      {
+        "offset": "00000010",
+        "hex": "53 00 5c 00 54 00 45 00 4d 00 50 00 4f 00 52 00",
+        "ascii": "S.\\.T.E.M.P.O.R."
+      },
+      {
+        "offset": "00000020",
+        "hex": "41 00 52 00 59 00 20 00 49 00 4e 00 54 00 45 00",
+        "ascii": "A.R.Y. .I.N.T.E."
+      },
+      {
+        "offset": "00000030",
+        "hex": "52 00 4e 00 45 00 54 00 20 00 46 00 49 00 4c 00",
+        "ascii": "R.N.E.T. .F.I.L."
+      },
+      {
+        "offset": "00000040",
+        "hex": "45 00 53 00 5c 00 43 00 4f 00 4e 00 54 00 00 69",
+        "ascii": "E.S.\\.C.O.N.T..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "34 00 57 45 6e 64 20 50 72 65 70 73 2e 20 20 20",
+        "ascii": "4.WEnd Preps.   "
+      },
+      {
+        "offset": "00000070",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 1b 00 03 00 03 00 14 00 00",
+        "ascii": "       ........."
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 52 61 6e 64 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Rand           "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 45 6e 64 20 50 72 65 70 2e 20 20",
+        "ascii": "     End Prep.  "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 4c 61 62 65 6c 20 20",
+        "ascii": "         Label  "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

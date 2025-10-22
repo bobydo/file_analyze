@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\3009-001\\EstItems3009-001.dbf",
+    "filename": "EstItems3009-001.dbf",
+    "size_bytes": 82592,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:34:58",
+    "export_timestamp": "2025-10-22T15:25:11.069518"
+  },
+  "analysis": {
+    "record_count": 169,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "IDFDESCR",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "AUXCODE",
+      "FILENAME"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP1700  G  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "10\" Std(.365)  BE x BE",
+        "IDFDESCR": "Pipe, A106-B, SMLS, Std Wt, BBE",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 29.509,
+        "WEIGHT": 199.104,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "SUR2-C04-05-BFW-LIM-23048-004_Rev0.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "WFW0900  G  000000 3R EG~.000",
+        "ITEMLABEL": "H",
+        "DESCRIPT": "2\" 300# RF Weld Neck Std",
+        "IDFDESCR": "WN Flg, A105N, CL300, StdWt, RF, StdF, B16.5",
+        "MATERIAL": "A105N",
+        "QUANTITY": 1.0,
+        "WEIGHT": 8.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "B",
+        "FILENAME": "SUR2-C04-05-BFW-LIM-23048-004_Rev0.PCF"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "CSG0500     000000   6EG~.000",
+        "ITEMLABEL": "K",
+        "DESCRIPT": " 3/4\" 6,000# TH Cap",
+        "IDFDESCR": "Cap, FNPT, A105N, CL6000",
+        "MATERIAL": "A105N",
+        "QUANTITY": 2.0,
+        "WEIGHT": 0.75,
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": "",
+        "AUXCODE": "R",
+        "FILENAME": "SUR2-C04-05-BFW-LIM-23048-004_Rev0.PCF"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

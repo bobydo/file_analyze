@@ -1,0 +1,60 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\14537\\FabALPricing14537.dbf",
+    "filename": "FabALPricing14537.dbf",
+    "size_bytes": 1790,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-06-11T15:32:31",
+    "export_timestamp": "2025-10-22T15:25:11.041135"
+  },
+  "analysis": {
+    "record_count": 12,
+    "field_count": 8,
+    "field_names": [
+      "APCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": [
+      {
+        "APCODE": "OEE04M",
+        "SIZE_I": ".5\"",
+        "SIZE_M": "15 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Sch 80(.147)",
+        "WALL_M": "Sch 80(3.73)",
+        "PRICE": 0.0,
+        "FACTOR": null
+      },
+      {
+        "APCODE": "OEE06M",
+        "SIZE_I": "1\"",
+        "SIZE_M": "25 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Sch 80(.179)",
+        "WALL_M": "Sch 80(4.55)",
+        "PRICE": 21.0,
+        "FACTOR": null
+      },
+      {
+        "APCODE": "OEE08M",
+        "SIZE_I": "1.5\"",
+        "SIZE_M": "40 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Sch 80(.200)",
+        "WALL_M": "Sch 80(5.08)",
+        "PRICE": 21.0,
+        "FACTOR": null
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

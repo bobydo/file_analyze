@@ -1,0 +1,31 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\MID.dbf",
+    "filename": "MID.dbf",
+    "size_bytes": 354,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-10-04T10:22:41",
+    "export_timestamp": "2025-10-22T15:25:11.000829"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 10,
+    "field_names": [
+      "ITEMCODE",
+      "AUXCODE",
+      "DLETTER",
+      "DESCRIPT",
+      "IDFDESCR",
+      "WELDSIZE",
+      "ACTUALDI",
+      "MIDQTY",
+      "WEIGHT",
+      "IMAGE"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

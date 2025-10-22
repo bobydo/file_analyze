@@ -1,0 +1,26 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\30203\\Inst_XLabor30203.dbf",
+    "filename": "Inst_XLabor30203.dbf",
+    "size_bytes": 194,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2025-04-30T11:14:03.267908",
+    "export_timestamp": "2025-10-22T15:25:11.109145"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 5,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "XLCODE",
+      "XLDESCR",
+      "QUANTITY"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

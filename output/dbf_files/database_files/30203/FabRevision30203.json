@@ -1,0 +1,48 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\30203\\FabRevision30203.dbf",
+    "filename": "FabRevision30203.dbf",
+    "size_bytes": 674,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2025-05-03T19:47:51.292747",
+    "export_timestamp": "2025-10-22T15:25:11.087950"
+  },
+  "analysis": {
+    "record_count": 1,
+    "field_count": 12,
+    "field_names": [
+      "JOBNO",
+      "CONTROLNO",
+      "SPOOLNO",
+      "REVISION",
+      "REVLABEL",
+      "REFDRAWING",
+      "DWNBY",
+      "CHKDBY",
+      "REVDATE",
+      "DESCRIPT",
+      "SAVEDATE",
+      "APVERSION"
+    ],
+    "sample_records": [
+      {
+        "JOBNO": "30203",
+        "CONTROLNO": "000001",
+        "SPOOLNO": "",
+        "REVISION": " 0",
+        "REVLABEL": "",
+        "REFDRAWING": "",
+        "DWNBY": "",
+        "CHKDBY": "",
+        "REVDATE": "2025-05-03",
+        "DESCRIPT": "",
+        "SAVEDATE": "2025-05-03",
+        "APVERSION": "8-956"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

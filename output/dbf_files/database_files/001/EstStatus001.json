@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\EstStatus001.dbf",
+    "filename": "EstStatus001.dbf",
+    "size_bytes": 5962,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-05-22T16:16:59",
+    "export_timestamp": "2025-10-22T15:25:11.007358"
+  },
+  "analysis": {
+    "record_count": 20,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "ISONAME",
+      "FILEDATE",
+      "PSPEC1",
+      "PSPEC2",
+      "PSPEC3",
+      "SERVICE",
+      "ISPEC",
+      "PTSPEC",
+      "TSPEC",
+      "IMPDATE",
+      "STATUS",
+      "REMARK"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "0741120170171wx140201.idf",
+        "ISONAME": "1120171WX1402-01",
+        "FILEDATE": "",
+        "PSPEC1": "B1J",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "N 0MM",
+        "ISPEC": "NT",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2011-01-19 18:17",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "FILENAME": "0741500170173WX403203.IDF",
+        "ISONAME": "1500173WX4032-03",
+        "FILEDATE": "",
+        "PSPEC1": "B1J",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "E 50MM",
+        "ISPEC": "EP(E)",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2010-10-01 14:34",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "FILENAME": "0741500170181GU469801.IDF",
+        "ISONAME": "1500181GU4698-01",
+        "FILEDATE": "",
+        "PSPEC1": "A5C",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "N 0MM",
+        "ISPEC": "NT",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2010-10-01 14:34",
+        "STATUS": "",
+        "REMARK": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

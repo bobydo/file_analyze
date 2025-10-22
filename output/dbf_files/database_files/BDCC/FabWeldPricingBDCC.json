@@ -1,0 +1,60 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\FabWeldPricingBDCC.dbf",
+    "filename": "FabWeldPricingBDCC.dbf",
+    "size_bytes": 16620,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-03-01T10:31:03",
+    "export_timestamp": "2025-10-22T15:25:11.294414"
+  },
+  "analysis": {
+    "record_count": 142,
+    "field_count": 8,
+    "field_names": [
+      "WCODE",
+      "SIZE_I",
+      "SIZE_M",
+      "WDESCR",
+      "WALL_I",
+      "WALL_M",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": [
+      {
+        "WCODE": "A_09G",
+        "SIZE_I": "2\"",
+        "SIZE_M": "50 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "Std(.154)",
+        "WALL_M": "Std(3.91)",
+        "PRICE": 77.27,
+        "FACTOR": 1.0
+      },
+      {
+        "WCODE": "A_11G",
+        "SIZE_I": "3\"",
+        "SIZE_M": "80 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "Std(.216)",
+        "WALL_M": "Std(5.49)",
+        "PRICE": 115.91,
+        "FACTOR": 1.0
+      },
+      {
+        "WCODE": "A_16G",
+        "SIZE_I": "8\"",
+        "SIZE_M": "200 mm",
+        "WDESCR": "Butt-Weld",
+        "WALL_I": "Std(.322)",
+        "WALL_M": "Std(8.18)",
+        "PRICE": 283.33,
+        "FACTOR": 1.0
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\830500\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 200,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2011-06-10T10:41:18",
+    "export_timestamp": "2025-10-22T15:25:22.000329"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1413\n[Text nY]=179\n[Text Scale]=1\n[Text Line]=\n\n\n[Logo Filename]=rfi.jpg\n[Logo nX]=1415\n[Logo nY]=250\n[Logo Width]=600\n[Logo Height]=-200\n",
+    "preview_length": 186,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

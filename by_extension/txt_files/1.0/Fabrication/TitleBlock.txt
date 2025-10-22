@@ -1,0 +1,14 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1541
+[Text nY]=158
+[Text Scale]=1
+[Text Line]=Plain All American Pipeline
+
+
+[Logo Filename]=Logo name.jpg
+[Logo nX]=1550
+[Logo nY]=250
+[Logo Width]=500
+[Logo Height]=-180

@@ -1,0 +1,14 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1413
+[Text nY]=179
+[Text Scale]=1
+[Text Line]=
+
+
+[Logo Filename]=rfi.jpg
+[Logo nX]=1415
+[Logo nY]=250
+[Logo Width]=600
+[Logo Height]=-200

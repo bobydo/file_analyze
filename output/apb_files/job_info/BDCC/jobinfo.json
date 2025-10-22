@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\BDCC\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 62,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2012-03-01T10:32:39",
+    "export_timestamp": "2025-10-22T15:25:19.770130"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "42 6f 75 6e 64 72 79 20 44 61 6d 20 43 61 72 62",
+        "ascii": "Boundry Dam Carb"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 43 61 70 74 75 72 65 0d 0a 42 43 41 32",
+        "ascii": "on Capture..BCA2"
+      },
+      {
+        "offset": "00000020",
+        "hex": "0d 0a 30 30 30 30 30 0d 0a 20 31 34 35 31 0d 0a",
+        "ascii": "..00000.. 1451.."
+      },
+      {
+        "offset": "00000030",
+        "hex": "30 0d 0a 31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "0..1.........."
+      }
+    ],
+    "preview_size": 62
+  },
+  "error": null
+}

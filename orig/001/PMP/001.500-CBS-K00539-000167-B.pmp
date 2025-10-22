@@ -1,0 +1,38 @@
+; "001.500-CBS-K00539-000167-B.pmp" Pipe Machine Program file produced by AcornPipe ver 8-421
+; Item B 1 1/2" XS(.200) D/Leg on 2" Sch 80 x PE<532>  539
+
+[Program Options]
+Units=INCH
+Offset=Workpoint
+
+[Machine Options]
+XAxisReversed=N
+
+[Pipe Data]
+Filename=001.500-CBS-K00539-000167-B.pmp
+PipeDiameter=1.900
+WallThickness=0.200
+Length=22.125
+CuttingMethod=Oxy/fuel
+PartNumber=
+Specification=A
+Material=CBS - A106-B SMLS
+Quantity=1
+
+[End1]
+Type=Saddle
+WeldPrepAngle=37.5
+
+[End1 Main1]
+Diameter=2.375
+CenterLineOffset=0.000
+BaselineOffset=0.000
+IntersectionAngle=90.000
+AxialAngle=90.000
+Through=Y
+
+
+[End2]
+Type=Straight
+WeldPrepAngle=37.5
+

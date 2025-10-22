@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\3009-001\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 134,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2011-05-03T16:28:18",
+    "export_timestamp": "2025-10-22T15:25:22.021336"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Impact\n\n[Logo Filename]=AECON WEST LOGO-Model.jpg\n[Logo nX]=3020\n[Logo nY]=710\n[Logo Width]=1120\n[Logo Height]=-80\n",
+    "preview_length": 127,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

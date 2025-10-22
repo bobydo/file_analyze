@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\CH-7\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 355,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-03-12T17:51:22",
+    "export_timestamp": "2025-10-22T15:25:21.989449"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1413\n[Text nY]=200\n[Text Scale]=0.9600002\n[Text Line]=Century Contractors, Inc.\n\n[Text Alignment]=L\n[Text nX]=1413\n[Text nY]=145\n[Text Scale]=0.7680001\n[Text Line]=5100 Smith Farm Rd\n\n[Text Alignment]=L\n[Text nX]=1413\n[Text nY]=108\n[Text Scale]=0.7680001\n[Text Line]=Matthews, NC 28104\n\n",
+    "preview_length": 335,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

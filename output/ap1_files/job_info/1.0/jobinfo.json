@@ -1,0 +1,74 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap1_files\\job_info\\1.0\\jobinfo.ap1",
+    "filename": "jobinfo.ap1",
+    "size_bytes": 169,
+    "extension": ".ap1",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2015-01-22T17:22:20",
+    "export_timestamp": "2025-10-22T15:25:19.584036"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "30 30 31 30 30 30 30 30 0d 0a 31 31 30 32 30 30",
+        "ascii": "00100000..110200"
+      },
+      {
+        "offset": "00000010",
+        "hex": "30 30 0d 0a 48 45 41 54 20 23 09 0d 0a 30 4e 30",
+        "ascii": "00..HEAT #...0N0"
+      },
+      {
+        "offset": "00000020",
+        "hex": "30 30 30 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "000             "
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 31 2e 35 20 20 31 2e 35 20 20 20 20 20 20 20",
+        "ascii": " 1.5  1.5       "
+      },
+      {
+        "offset": "00000040",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000050",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000060",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 0d 0a 0d",
+        "ascii": "             ..."
+      },
+      {
+        "offset": "00000070",
+        "hex": "0a 45 6e 74 72 69 65 73 3d 34 20 4a 6f 62 20 49",
+        "ascii": ".Entries=4 Job I"
+      },
+      {
+        "offset": "00000080",
+        "hex": "6e 66 6f 72 6d 61 74 69 6f 6e 20 45 6e 74 72 79",
+        "ascii": "nformation Entry"
+      },
+      {
+        "offset": "00000090",
+        "hex": "0d 0a 45 72 69 63 0d 0a 0d 0a 44 72 61 77 69 67",
+        "ascii": "..Eric....Drawig"
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 74 65 73 74 0d 0a 0d 0a",
+        "ascii": " test...."
+      }
+    ],
+    "preview_size": 169
+  },
+  "error": null
+}

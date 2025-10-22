@@ -1,0 +1,35 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\Fab_AutoLaborBDCC.dbf",
+    "filename": "Fab_AutoLaborBDCC.dbf",
+    "size_bytes": 733,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-01-25T07:02:08",
+    "export_timestamp": "2025-10-22T15:25:11.297898"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

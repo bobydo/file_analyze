@@ -1,0 +1,32 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1455
+[Text nY]=206
+[Text Scale]=1
+[Text Line]=EXCEL FABRICATION
+
+[Text Alignment]=L
+[Text nX]=1450
+[Text nY]=156
+[Text Scale]=1
+[Text Line]=AND CONSTRUCTION
+
+[Text Alignment]=L
+[Text nX]=1602
+[Text nY]=109
+[Text Scale]=0.5787037
+[Text Line]=39222 HWY 621
+
+[Text Alignment]=L
+[Text nX]=1570
+[Text nY]=71
+[Text Scale]=0.5787037
+[Text Line]=GONZALES, LA 70737
+
+
+[Logo Filename]=Logo name.jpg
+[Logo nX]=1550
+[Logo nY]=250
+[Logo Width]=500
+[Logo Height]=-180

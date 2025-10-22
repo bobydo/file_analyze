@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap2_files\\specifications\\3009-001\\Specification\\CVA.ap2",
+    "filename": "CVA.ap2",
+    "size_bytes": 285,
+    "extension": ".ap2",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2011-09-30T13:40:56",
+    "export_timestamp": "2025-10-22T15:25:19.632044"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 39 20 4e 6f",
+        "ascii": "....Entries=9 No"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45 78",
+        "ascii": "n Destructive Ex"
+      },
+      {
+        "offset": "00000020",
+        "hex": "61 6d 0d 0a 31 30 30 25 0d 0a 4e 4f 0d 0a 4e 4f",
+        "ascii": "am..100%..NO..NO"
+      },
+      {
+        "offset": "00000030",
+        "hex": "0d 0a 31 30 30 25 20 53 57 20 42 52 2f 41 54 54",
+        "ascii": "..100% SW BR/ATT"
+      },
+      {
+        "offset": "00000040",
+        "hex": "0d 0a 4e 4f 0d 0a 4e 4f 0d 0a 4e 4f 0d 0a 4e 4f",
+        "ascii": "..NO..NO..NO..NO"
+      },
+      {
+        "offset": "00000050",
+        "hex": "0d 0a 31 30 30 25 0d 0a 0d 0a 0d 0a 45 6e 74 72",
+        "ascii": "..100%......Entr"
+      },
+      {
+        "offset": "00000060",
+        "hex": "69 65 73 3d 35 20 20 57 65 6c 64 69 6e 67 20 50",
+        "ascii": "ies=5  Welding P"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 6f 63 65 64 75 72 65 73 0d 0a 43 45 53 2d 30",
+        "ascii": "rocedures..CES-0"
+      },
+      {
+        "offset": "00000080",
+        "hex": "36 38 0d 0a 43 45 53 2d 30 38 39 0d 0a 43 45 53",
+        "ascii": "68..CES-089..CES"
+      },
+      {
+        "offset": "00000090",
+        "hex": "2d 31 38 38 0d 0a 43 45 53 2d 32 36 36 0d 0a 0d",
+        "ascii": "-188..CES-266..."
+      },
+      {
+        "offset": "000000a0",
+        "hex": "0a 0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 35 20 20",
+        "ascii": ".....Entries=5  "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "53 74 72 65 73 73 2d 52 65 6c 69 65 76 65 20 50",
+        "ascii": "Stress-Relieve P"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "72 6f 63 65 64 75 72 65 73 0d 0a 43 45 53 2d 30",
+        "ascii": "rocedures..CES-0"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "33 33 0d 0a 43 45 53 2d 32 35 35 0d 0a 43 45 53",
+        "ascii": "33..CES-255..CES"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "2d 32 35 36 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a 45 6e",
+        "ascii": "-256..........En"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "74 72 69 65 73 3d 34 20 20 49 6e 73 70 65 63 74",
+        "ascii": "tries=4  Inspect"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

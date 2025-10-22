@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap3_files\\specifications\\Shenyi\\jobinfo.ap3",
+    "filename": "jobinfo.ap3",
+    "size_bytes": 64,
+    "extension": ".ap3",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2013-02-26T17:42:28",
+    "export_timestamp": "2025-10-22T15:25:19.646550"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "20 20 20 20 20 20 20 20 0d 0a 20 20 20 20 20 0d",
+        "ascii": "        ..     ."
+      },
+      {
+        "offset": "00000010",
+        "hex": "0a 0d 0a 0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 34",
+        "ascii": ".......Entries=4"
+      },
+      {
+        "offset": "00000020",
+        "hex": "20 4a 6f 62 20 49 6e 66 6f 72 6d 61 74 69 6f 6e",
+        "ascii": " Job Information"
+      },
+      {
+        "offset": "00000030",
+        "hex": "20 45 6e 74 72 79 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": " Entry.........."
+      }
+    ],
+    "preview_size": 64
+  },
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\err_files\\31047\\Estimate\\ISO-PY3-1320001-C.ERR",
+    "filename": "ISO-PY3-1320001-C.ERR",
+    "size_bytes": 156,
+    "extension": ".err",
+    "file_type": "error_log",
+    "is_binary": false,
+    "last_modified": "2012-12-13T07:13:50",
+    "export_timestamp": "2025-10-22T15:25:21.944455"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "#1\n\nProcessing ID: AT_FRNRB3AK_EM  Error finding the coordinates of NP1.wc\n#2\n\nProcessing ID: AT_FRNRB3AK_EG  Error finding the coordinates of NP1.wc\n",
+    "preview_length": 150,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

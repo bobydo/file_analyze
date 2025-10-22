@@ -1,0 +1,99 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\pmp_files\\001\\PMP\\006-CBS-I00267-000172-A.pmp",
+    "filename": "006-CBS-I00267-000172-A.pmp",
+    "size_bytes": 515,
+    "extension": ".pmp",
+    "file_type": "project_management",
+    "is_binary": true,
+    "last_modified": "2011-02-18T11:26:58",
+    "export_timestamp": "2025-10-22T15:25:20.026061"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "3b 20 22 30 30 36 2d 43 42 53 2d 49 30 30 32 36",
+        "ascii": "; \"006-CBS-I0026"
+      },
+      {
+        "offset": "00000010",
+        "hex": "37 2d 30 30 30 31 37 32 2d 41 2e 70 6d 70 22 20",
+        "ascii": "7-000172-A.pmp\" "
+      },
+      {
+        "offset": "00000020",
+        "hex": "50 69 70 65 20 4d 61 63 68 69 6e 65 20 50 72 6f",
+        "ascii": "Pipe Machine Pro"
+      },
+      {
+        "offset": "00000030",
+        "hex": "67 72 61 6d 20 66 69 6c 65 20 70 72 6f 64 75 63",
+        "ascii": "gram file produc"
+      },
+      {
+        "offset": "00000040",
+        "hex": "65 64 20 62 79 20 41 63 6f 72 6e 50 69 70 65 20",
+        "ascii": "ed by AcornPipe "
+      },
+      {
+        "offset": "00000050",
+        "hex": "76 65 72 20 38 2d 34 32 31 0d 0a 3b 20 49 74 65",
+        "ascii": "ver 8-421..; Ite"
+      },
+      {
+        "offset": "00000060",
+        "hex": "6d 20 41 20 36 22 20 53 63 68 20 34 30 28 2e 32",
+        "ascii": "m A 6\" Sch 40(.2"
+      },
+      {
+        "offset": "00000070",
+        "hex": "38 30 29 20 42 45 20 78 20 42 45 20 32 36 37 0d",
+        "ascii": "80) BE x BE 267."
+      },
+      {
+        "offset": "00000080",
+        "hex": "0a 0d 0a 5b 50 72 6f 67 72 61 6d 20 4f 70 74 69",
+        "ascii": "...[Program Opti"
+      },
+      {
+        "offset": "00000090",
+        "hex": "6f 6e 73 5d 0d 0a 55 6e 69 74 73 3d 49 4e 43 48",
+        "ascii": "ons]..Units=INCH"
+      },
+      {
+        "offset": "000000a0",
+        "hex": "0d 0a 4f 66 66 73 65 74 3d 57 6f 72 6b 70 6f 69",
+        "ascii": "..Offset=Workpoi"
+      },
+      {
+        "offset": "000000b0",
+        "hex": "6e 74 0d 0a 0d 0a 5b 4d 61 63 68 69 6e 65 20 4f",
+        "ascii": "nt....[Machine O"
+      },
+      {
+        "offset": "000000c0",
+        "hex": "70 74 69 6f 6e 73 5d 0d 0a 58 41 78 69 73 52 65",
+        "ascii": "ptions]..XAxisRe"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "76 65 72 73 65 64 3d 4e 0d 0a 0d 0a 5b 50 69 70",
+        "ascii": "versed=N....[Pip"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "65 20 44 61 74 61 5d 0d 0a 46 69 6c 65 6e 61 6d",
+        "ascii": "e Data]..Filenam"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "65 3d 30 30 36 2d 43 42 53 2d 49 30 30 32 36 37",
+        "ascii": "e=006-CBS-I00267"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

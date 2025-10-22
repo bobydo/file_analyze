@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\BDCC\\InstItemsBDCC.dbf",
+    "filename": "InstItemsBDCC.dbf",
+    "size_bytes": 111188,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-02-15T07:17:32",
+    "export_timestamp": "2025-10-22T15:25:11.315731"
+  },
+  "analysis": {
+    "record_count": 46,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP0800  K  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "1 1/2\" XS(.200)",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 515.87,
+        "WEIGHT": 19.874,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "6111B12XSZC0NZ00",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "BSF0808     000000   3EH~.000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "1 1/2\"x 1 1/2\" 3,000# Sockolet",
+        "MATERIAL": "A105",
+        "QUANTITY": 1.0,
+        "WEIGHT": 1.5,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "6282A01ZZFN0KZZZ",
+        "AUXCODE": "Q"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "ESG0800     0009000  3EH~.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": "1 1/2\" 90 3,000# SW Elbow",
+        "MATERIAL": "A105",
+        "QUANTITY": 11.0,
+        "WEIGHT": 1.5,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "6292A01ZZFN03ZZZ",
+        "AUXCODE": "M"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

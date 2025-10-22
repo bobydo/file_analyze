@@ -1,0 +1,395 @@
+{
+  "organization_timestamp": "2025-10-22T14:09:47.623784",
+  "source_directory": "d:\\file_analyze\\orig",
+  "target_directory": "d:\\file_analyze\\by_extension",
+  "statistics": {
+    "total_files_processed": 7493,
+    "files_copied": 7446,
+    "directories_created": 42,
+    "extension_counts": {
+      ".ac2": 60,
+      ".ac3": 547,
+      ".acx": 20,
+      ".cdx": 194,
+      ".dbf": 191,
+      ".apf": 3613,
+      ".api": 49,
+      ".ap0": 13,
+      ".ap1": 14,
+      ".apb": 15,
+      ".asl": 40,
+      ".idf": 153,
+      ".pcf": 1005,
+      ".plt": 126,
+      ".ap3": 114,
+      ".ap2": 47,
+      ".spc": 150,
+      ".txt": 94,
+      ".zip": 1,
+      ".jpg": 16,
+      ".bat": 2,
+      ".bsd": 1,
+      ".pmp": 21,
+      ".err": 111,
+      ".gif": 1,
+      ".msg": 1,
+      ".typed": 14,
+      ".pyc": 402,
+      ".md": 1,
+      ".py": 402,
+      ".tif": 1,
+      ".pem": 1,
+      ".db": 3,
+      ".cfg": 1,
+      ".ps1": 1,
+      ".exe": 11,
+      ".txt'": 1,
+      ".0": 5,
+      ".pdf": 1,
+      ".png": 1,
+      ".fish": 1,
+      ".apache": 1
+    },
+    "errors": []
+  },
+  "folder_structure": {
+    "spc_files": {
+      "category": "Engineering Files",
+      "description": "Specification files",
+      "extensions": [
+        ".spc"
+      ],
+      "file_count": 150
+    },
+    "ap2_files": {
+      "category": "Engineering Files",
+      "description": "Specification format files",
+      "extensions": [
+        ".ap2"
+      ],
+      "file_count": 47
+    },
+    "ap3_files": {
+      "category": "Engineering Files",
+      "description": "Specification format files",
+      "extensions": [
+        ".ap3"
+      ],
+      "file_count": 114
+    },
+    "apf_files": {
+      "category": "Engineering Files",
+      "description": "Fabrication files (largest category)",
+      "extensions": [
+        ".apf"
+      ],
+      "file_count": 3613
+    },
+    "api_files": {
+      "category": "Engineering Files",
+      "description": "Installation files",
+      "extensions": [
+        ".api"
+      ],
+      "file_count": 49
+    },
+    "ac2_files": {
+      "category": "Engineering Files",
+      "description": "AutoCAD files",
+      "extensions": [
+        ".ac2"
+      ],
+      "file_count": 60
+    },
+    "ac3_files": {
+      "category": "Engineering Files",
+      "description": "AutoCAD dimension tables (like BSA3.txt)",
+      "extensions": [
+        ".ac3"
+      ],
+      "file_count": 547
+    },
+    "acx_files": {
+      "category": "Engineering Files",
+      "description": "AutoCAD extension files",
+      "extensions": [
+        ".acx"
+      ],
+      "file_count": 20
+    },
+    "pcf_files": {
+      "category": "Engineering Files",
+      "description": "Piping Component Files",
+      "extensions": [
+        ".pcf"
+      ],
+      "file_count": 1005
+    },
+    "idf_files": {
+      "category": "Engineering Files",
+      "description": "Isometric Data Files",
+      "extensions": [
+        ".idf"
+      ],
+      "file_count": 153
+    },
+    "dbf_files": {
+      "category": "Engineering Files",
+      "description": "Database files",
+      "extensions": [
+        ".dbf"
+      ],
+      "file_count": 191
+    },
+    "cdx_files": {
+      "category": "Engineering Files",
+      "description": "Database index files",
+      "extensions": [
+        ".cdx"
+      ],
+      "file_count": 194
+    },
+    "asl_files": {
+      "category": "Layout & Design Files",
+      "description": "Layout files",
+      "extensions": [
+        ".asl"
+      ],
+      "file_count": 40
+    },
+    "plt_files": {
+      "category": "Layout & Design Files",
+      "description": "Plot files",
+      "extensions": [
+        ".plt"
+      ],
+      "file_count": 126
+    },
+    "ap0_files": {
+      "category": "Job Information",
+      "description": "Job info files",
+      "extensions": [
+        ".ap0"
+      ],
+      "file_count": 13
+    },
+    "ap1_files": {
+      "category": "Job Information",
+      "description": "Job info files",
+      "extensions": [
+        ".ap1"
+      ],
+      "file_count": 14
+    },
+    "apb_files": {
+      "category": "Job Information",
+      "description": "Job info files",
+      "extensions": [
+        ".apb"
+      ],
+      "file_count": 15
+    },
+    "txt_files": {
+      "category": "Configuration & Documentation Files",
+      "description": "Text-based configuration, description, and documentation files",
+      "extensions": [
+        ".txt"
+      ],
+      "file_count": 94
+    },
+    "zip_files": {
+      "category": "Engineering Files",
+      "description": ".ZIP format files",
+      "extensions": [
+        ".zip"
+      ],
+      "file_count": 1
+    },
+    "jpg_files": {
+      "category": "Engineering Files",
+      "description": ".JPG format files",
+      "extensions": [
+        ".jpg"
+      ],
+      "file_count": 16
+    },
+    "bat_files": {
+      "category": "Engineering Files",
+      "description": ".BAT format files",
+      "extensions": [
+        ".bat"
+      ],
+      "file_count": 2
+    },
+    "bsd_files": {
+      "category": "Engineering Files",
+      "description": ".BSD format files",
+      "extensions": [
+        ".bsd"
+      ],
+      "file_count": 1
+    },
+    "pmp_files": {
+      "category": "Engineering Files",
+      "description": ".PMP format files",
+      "extensions": [
+        ".pmp"
+      ],
+      "file_count": 21
+    },
+    "err_files": {
+      "category": "Engineering Files",
+      "description": ".ERR format files",
+      "extensions": [
+        ".err"
+      ],
+      "file_count": 111
+    },
+    "gif_files": {
+      "category": "Engineering Files",
+      "description": ".GIF format files",
+      "extensions": [
+        ".gif"
+      ],
+      "file_count": 1
+    },
+    "msg_files": {
+      "category": "Engineering Files",
+      "description": ".MSG format files",
+      "extensions": [
+        ".msg"
+      ],
+      "file_count": 1
+    },
+    "typed_files": {
+      "category": "Engineering Files",
+      "description": ".TYPED format files",
+      "extensions": [
+        ".typed"
+      ],
+      "file_count": 14
+    },
+    "pyc_files": {
+      "category": "Engineering Files",
+      "description": ".PYC format files",
+      "extensions": [
+        ".pyc"
+      ],
+      "file_count": 402
+    },
+    "md_files": {
+      "category": "Engineering Files",
+      "description": ".MD format files",
+      "extensions": [
+        ".md"
+      ],
+      "file_count": 1
+    },
+    "py_files": {
+      "category": "Engineering Files",
+      "description": ".PY format files",
+      "extensions": [
+        ".py"
+      ],
+      "file_count": 402
+    },
+    "tif_files": {
+      "category": "Engineering Files",
+      "description": ".TIF format files",
+      "extensions": [
+        ".tif"
+      ],
+      "file_count": 1
+    },
+    "pem_files": {
+      "category": "Engineering Files",
+      "description": ".PEM format files",
+      "extensions": [
+        ".pem"
+      ],
+      "file_count": 1
+    },
+    "db_files": {
+      "category": "Engineering Files",
+      "description": ".DB format files",
+      "extensions": [
+        ".db"
+      ],
+      "file_count": 3
+    },
+    "cfg_files": {
+      "category": "Engineering Files",
+      "description": ".CFG format files",
+      "extensions": [
+        ".cfg"
+      ],
+      "file_count": 1
+    },
+    "ps1_files": {
+      "category": "Engineering Files",
+      "description": ".PS1 format files",
+      "extensions": [
+        ".ps1"
+      ],
+      "file_count": 1
+    },
+    "exe_files": {
+      "category": "Engineering Files",
+      "description": ".EXE format files",
+      "extensions": [
+        ".exe"
+      ],
+      "file_count": 11
+    },
+    "txt'_files": {
+      "category": "Engineering Files",
+      "description": ".TXT' format files",
+      "extensions": [
+        ".txt'"
+      ],
+      "file_count": 1
+    },
+    "0_files": {
+      "category": "Engineering Files",
+      "description": ".0 format files",
+      "extensions": [
+        ".0"
+      ],
+      "file_count": 5
+    },
+    "pdf_files": {
+      "category": "Engineering Files",
+      "description": ".PDF format files",
+      "extensions": [
+        ".pdf"
+      ],
+      "file_count": 1
+    },
+    "png_files": {
+      "category": "Engineering Files",
+      "description": ".PNG format files",
+      "extensions": [
+        ".png"
+      ],
+      "file_count": 1
+    },
+    "fish_files": {
+      "category": "Engineering Files",
+      "description": ".FISH format files",
+      "extensions": [
+        ".fish"
+      ],
+      "file_count": 1
+    },
+    "apache_files": {
+      "category": "Engineering Files",
+      "description": ".APACHE format files",
+      "extensions": [
+        ".apache"
+      ],
+      "file_count": 1
+    }
+  },
+  "txt_organization_timestamp": "2025-10-22T14:26:43.294202",
+  "rescan_timestamp": "2025-10-22T14:30:37.855965"
+}

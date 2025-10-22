@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\1.0\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 233,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2015-01-22T17:17:17",
+    "export_timestamp": "2025-10-22T15:25:22.031859"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1541\n[Text nY]=158\n[Text Scale]=1\n[Text Line]=Plain All American Pipeline\n\n\n[Logo Filename]=Logo name.jpg\n[Logo nX]=1550\n[Logo nY]=250\n[Logo Width]=500\n[Logo Height]=-180\n",
+    "preview_length": 219,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\FabXLPrice001.dbf",
+    "filename": "FabXLPrice001.dbf",
+    "size_bytes": 162,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-02-22T11:40:45",
+    "export_timestamp": "2025-10-22T15:25:11.017650"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 4,
+    "field_names": [
+      "XLPCODE",
+      "XLPDESCR",
+      "PRICE",
+      "FACTOR"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

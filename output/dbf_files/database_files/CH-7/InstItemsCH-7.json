@@ -1,0 +1,76 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\CH-7\\InstItemsCH-7.dbf",
+    "filename": "InstItemsCH-7.dbf",
+    "size_bytes": 133713,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-07-25T20:55:10",
+    "export_timestamp": "2025-10-22T15:25:11.344388"
+  },
+  "analysis": {
+    "record_count": 485,
+    "field_count": 12,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "SHOPQTY",
+      "REMARKS",
+      "USERCODE",
+      "AUXCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "EQ-001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP2000  I  000000    CAE.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "16\" Sch 40(.500)*",
+        "MATERIAL": "A53-B ERW",
+        "QUANTITY": 228.063,
+        "WEIGHT": 1573.085,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "A"
+      },
+      {
+        "CONTROLNO": "EQ-001",
+        "REVISION": "00",
+        "ITEMCODE": "SWS2000     000000 1R EH~.000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "16\" 150# RF Slip-On Flange",
+        "MATERIAL": "A105",
+        "QUANTITY": 2.0,
+        "WEIGHT": 93.0,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "B"
+      },
+      {
+        "CONTROLNO": "EQ-001",
+        "REVISION": "00",
+        "ITEMCODE": "BSK0520     000000   3EH~.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": " 3/4\"x 16\" 3,000# Thredolet",
+        "MATERIAL": "A105",
+        "QUANTITY": 2.0,
+        "WEIGHT": 0.75,
+        "SHOPQTY": 0.0,
+        "REMARKS": "",
+        "USERCODE": "",
+        "AUXCODE": "Q"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

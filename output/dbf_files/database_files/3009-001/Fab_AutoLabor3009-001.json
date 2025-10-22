@@ -1,0 +1,35 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\3009-001\\Fab_AutoLabor3009-001.dbf",
+    "filename": "Fab_AutoLabor3009-001.dbf",
+    "size_bytes": 482,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-10-29T10:41:39",
+    "export_timestamp": "2025-10-22T15:25:11.073834"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

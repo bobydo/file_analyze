@@ -1,0 +1,117 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\MTC.ac3",
+    "filename": "MTC.ac3",
+    "size_bytes": 2873,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2014-02-12T13:17:10",
+    "export_timestamp": "2025-10-22T15:25:12.049286"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 2873,
+    "specifications": [
+      "inch  mm"
+    ],
+    "dimensions": [],
+    "other_text": [
+      "tMaterials Category C-Carbon Steel Pipe                                                              ?",
+      "Letter              Material            In Use?",
+      "A                   A106-B              B                   A53-B               C                   A53-F               D                   A120                E                   SA106-B             F                   SA53-B              G                   A587                H                   A106-C              I                   A53-A               J                   API-5L-B            K                   API-5L-X42          L                   API-5L-X46          M                   API-5L-X52          N                   API-5L-X56          O                   API-5L-X60          P                   API-5L-X65          Q                   API-5L-X70          R                   MSS-SP75            S                   MSS-SP75 WPHY-42    T                   MSS-SP75 WPHY-52    U                   MSS-SP75 WPHY-60    V                   SA106-C             W                   A106-B Normalized   X                                       Y                                       Z                                       a                                       b                                       c                                       d                                       e                                       f                                       g                                       h                                       i                                       j                                       k                                       l                                       m                                       n                                       o                                       p                                       q                                       r                                       s                                       t                                       u                                       v                                       w                                       x                                       y                                       z                                       0                                       1                                       2                                       3                                       4                                       5                                       6                                       7                                       8                                       9"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "a8 00 00 00 28 00 00 00 c0 00 a8 00 07 09 00 00",
+        "ascii": "....(..........."
+      },
+      {
+        "offset": "00000010",
+        "hex": "00 b7 ba 1a 06 20 bf 01 00 00 52 00 57 00 49 00",
+        "ascii": "..... ....R.W.I."
+      },
+      {
+        "offset": "00000020",
+        "hex": "4e 00 44 00 4f 00 57 00 53 00 5c 00 4c 00 6f 00",
+        "ascii": "N.D.O.W.S.\\.L.o."
+      },
+      {
+        "offset": "00000030",
+        "hex": "63 00 61 00 6c 00 20 00 53 00 65 00 74 00 74 00",
+        "ascii": "c.a.l. .S.e.t.t."
+      },
+      {
+        "offset": "00000040",
+        "hex": "69 00 6e 00 67 00 73 00 5c 00 54 00 65 00 00 69",
+        "ascii": "i.n.g.s.\\.T.e..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "6e 00 74 4d 61 74 65 72 69 61 6c 73 20 43 61 74",
+        "ascii": "n.tMaterials Cat"
+      },
+      {
+        "offset": "00000070",
+        "hex": "65 67 6f 72 79 20 43 2d 43 61 72 62 6f 6e 20 53",
+        "ascii": "egory C-Carbon S"
+      },
+      {
+        "offset": "00000080",
+        "hex": "74 65 65 6c 20 50 69 70 65 20 20 20 20 20 20 20",
+        "ascii": "teel Pipe       "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 3f 00 03 00 02 00 14 00 01",
+        "ascii": "       ?........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 4d 61 74 65 72 69 61 6c 20 20 20",
+        "ascii": "     Material   "
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 20 20 20 20 49 6e 20 55 73 65 3f",
+        "ascii": "         In Use?"
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

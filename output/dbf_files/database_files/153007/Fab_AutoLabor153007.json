@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\153007\\Fab_AutoLabor153007.dbf",
+    "filename": "Fab_AutoLabor153007.dbf",
+    "size_bytes": 13283,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2015-02-14T09:40:14",
+    "export_timestamp": "2025-10-22T15:25:11.062905"
+  },
+  "analysis": {
+    "record_count": 47,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OLA08  1  P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": "1.5\"",
+        "SIZE_M": "40 mm",
+        "ALDESCR": "Flange Prot. 150#",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OLA09  1  P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": "2\"",
+        "SIZE_M": "50 mm",
+        "ALDESCR": "Flange Prot. 150#",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ALCODE": "OLD05     P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "",
+        "SIZE_I": ".75\"",
+        "SIZE_M": "20 mm",
+        "ALDESCR": "",
+        "WALL_I": "",
+        "WALL_M": "",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

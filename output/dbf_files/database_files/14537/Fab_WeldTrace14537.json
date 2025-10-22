@@ -1,0 +1,47 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\14537\\Fab_WeldTrace14537.dbf",
+    "filename": "Fab_WeldTrace14537.dbf",
+    "size_bytes": 866,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-05-31T15:43:48",
+    "export_timestamp": "2025-10-22T15:25:11.053860"
+  },
+  "analysis": {
+    "record_count": 0,
+    "field_count": 26,
+    "field_names": [
+      "SEQUENCE",
+      "ORIG_REP",
+      "CONTROLNO",
+      "WELDLABEL",
+      "NDESTATUS",
+      "NDERECORD",
+      "NDEDATE",
+      "NDEPF",
+      "COMMENT",
+      "TRACER1",
+      "TRACER2",
+      "WTUSER1",
+      "WTUSER2",
+      "WTUSER3",
+      "WTUSER4",
+      "WTUSER5",
+      "WTUSER6",
+      "WTUSER7",
+      "WTUSER8",
+      "WTUSER9",
+      "WTUSER10",
+      "WTUSER11",
+      "WTUSER12",
+      "WTUSER13",
+      "WTUSER14",
+      "WTUSER15"
+    ],
+    "sample_records": []
+  },
+  "content_preview": {},
+  "error": null
+}

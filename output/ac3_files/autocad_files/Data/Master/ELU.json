@@ -1,0 +1,147 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\ELU.AC3",
+    "filename": "ELU.AC3",
+    "size_bytes": 3473,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2008-05-02T09:54:40",
+    "export_timestamp": "2025-10-22T15:25:11.848993"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 3473,
+    "specifications": [
+      "inch  mm    33",
+      "Dimensions for LR Elbow                                                                             X",
+      "Nom. Size   Metric Size In Use?     Calc. Dim?  Dim-45 Deg  Dim-90 Deg"
+    ],
+    "dimensions": [
+      "1/8         3",
+      "1/4         6",
+      "3/8         9",
+      "1/2         12",
+      "0A5           125",
+      "4B32          800",
+      "40          1000",
+      "42          1050",
+      "46          1150",
+      "48          1200",
+      "50          1250",
+      "52          1300",
+      "54          1350",
+      "56          1400",
+      "58          1450",
+      "60          1500",
+      "62          1550",
+      "64          1600",
+      "66          1650",
+      "68          1700"
+    ],
+    "other_text": [
+      "?3/4         20",
+      "?1           25",
+      "?1-1/4       30",
+      "?1-1/2       40",
+      "@2           50",
+      "A2-1/2       65",
+      "p@3           75",
+      "A3-1/2       85",
+      "@4           100",
+      "@A6           150"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "80 00 00 07 00 00 00 00 80 00 00 07 00 00 00 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000010",
+        "hex": "80 00 00 07 80 00 80 00 80 00 00 03 80 00 80 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000020",
+        "hex": "80 00 00 01 80 00 c0 00 c0 00 00 00 c0 01 c0 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000030",
+        "hex": "e0 00 00 07 c0 01 e0 00 e0 00 00 07 e0 03 e0 00",
+        "ascii": "................"
+      },
+      {
+        "offset": "00000040",
+        "hex": "f0 01 80 0f e0 07 f0 01 fe 1f d5 5f e4 ff ff 69",
+        "ascii": "..........._...i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 3f",
+        "ascii": "nch  mm    33.A?"
+      },
+      {
+        "offset": "00000060",
+        "hex": "7e 1f 80 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "~..Dimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 4c 52 20 45 6c 62 6f 77 20 20 20 20 20 20",
+        "ascii": "r LR Elbow      "
+      },
+      {
+        "offset": "00000080",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 58 00 06 00 02 00 0c 00 02",
+        "ascii": "       X........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 20 4d 65 74",
+        "ascii": ".Nom. Size   Met"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "72 69 63 20 53 69 7a 65 20 49 6e 20 55 73 65 3f",
+        "ascii": "ric Size In Use?"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 43 61 6c 63 2e 20 44 69 6d 3f 20",
+        "ascii": "     Calc. Dim? "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

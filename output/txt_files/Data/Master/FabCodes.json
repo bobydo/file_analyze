@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\Data\\Master\\FabCodes.txt",
+    "filename": "FabCodes.txt",
+    "size_bytes": 124,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2014-04-24T15:58:54",
+    "export_timestamp": "2025-10-22T15:25:21.982919"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "B31.1\nB31.3\nASME\n<none>\nCZ662-99\nB31.4\nAPI-1104\nSEC.VIII, DIV.1\nSEC.1 BEP-2010\nCSA Z662\nASME B31.3\n\n\n\n\n\n\n\n",
+    "preview_length": 106,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

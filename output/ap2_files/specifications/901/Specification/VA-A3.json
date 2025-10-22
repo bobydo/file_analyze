@@ -1,0 +1,34 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap2_files\\specifications\\901\\Specification\\VA-A3.ap2",
+    "filename": "VA-A3.ap2",
+    "size_bytes": 43,
+    "extension": ".ap2",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2012-04-20T15:26:52",
+    "export_timestamp": "2025-10-22T15:25:19.610360"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "57 2d 33 36 30 32 0d 0a 56 41 2d 41 33 0d 0a 30",
+        "ascii": "W-3602..VA-A3..0"
+      },
+      {
+        "offset": "00000010",
+        "hex": "30 30 30 30 0d 0a 20 31 34 34 38 0d 0a 30 0d 0a",
+        "ascii": "0000.. 1448..0.."
+      },
+      {
+        "offset": "00000020",
+        "hex": "31 0d 0a 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "1.........."
+      }
+    ],
+    "preview_size": 43
+  },
+  "error": null
+}

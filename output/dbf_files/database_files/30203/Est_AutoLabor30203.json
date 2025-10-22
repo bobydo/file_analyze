@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\30203\\Est_AutoLabor30203.dbf",
+    "filename": "Est_AutoLabor30203.dbf",
+    "size_bytes": 26586,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2017-06-12T11:34:33",
+    "export_timestamp": "2025-10-22T15:25:11.080528"
+  },
+  "analysis": {
+    "record_count": 104,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000002",
+        "REVISION": "00",
+        "ALCODE": "OEE20G  A P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "16\"",
+        "SIZE_M": "400 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "REVISION": "00",
+        "ALCODE": "OEF20G  A P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "16\"",
+        "SIZE_M": "400 mm",
+        "ALDESCR": "Bevel End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "REVISION": "00",
+        "ALCODE": "OEE20G  A P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "16\"",
+        "SIZE_M": "400 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

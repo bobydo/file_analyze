@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\830500\\Fab_AutoLabor830500.dbf",
+    "filename": "Fab_AutoLabor830500.dbf",
+    "size_bytes": 426178,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2012-03-26T15:39:04",
+    "export_timestamp": "2025-10-22T15:25:11.242605"
+  },
+  "analysis": {
+    "record_count": 1602,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ALCODE",
+      "QUANTITY",
+      "MQUANTITY",
+      "MATGROUP",
+      "SIZE_I",
+      "SIZE_M",
+      "ALDESCR",
+      "WALL_I",
+      "WALL_M",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "UH-001",
+        "REVISION": "00",
+        "ALCODE": "OEF27G  A P",
+        "QUANTITY": 2.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "30\"",
+        "SIZE_M": "750 mm",
+        "ALDESCR": "Bevel End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "UH-001",
+        "REVISION": "00",
+        "ALCODE": "OEF24G  A P",
+        "QUANTITY": 2.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "24\"",
+        "SIZE_M": "600 mm",
+        "ALDESCR": "Bevel End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      },
+      {
+        "CONTROLNO": "UH-001",
+        "REVISION": "00",
+        "ALCODE": "OEE27G  A P",
+        "QUANTITY": 1.0,
+        "MQUANTITY": 0.0,
+        "MATGROUP": "CS Group 0",
+        "SIZE_I": "30\"",
+        "SIZE_M": "750 mm",
+        "ALDESCR": "Cut End",
+        "WALL_I": "Std(.375)",
+        "WALL_M": "Std(9.53)",
+        "REMARKS": "",
+        "USERCODE": "",
+        "CLIENTCODE": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

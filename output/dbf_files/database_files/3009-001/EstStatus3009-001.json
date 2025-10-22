@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\3009-001\\EstStatus3009-001.dbf",
+    "filename": "EstStatus3009-001.dbf",
+    "size_bytes": 2302,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-02-22T09:35:40",
+    "export_timestamp": "2025-10-22T15:25:11.070946"
+  },
+  "analysis": {
+    "record_count": 5,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "FILENAME",
+      "ISONAME",
+      "FILEDATE",
+      "PSPEC1",
+      "PSPEC2",
+      "PSPEC3",
+      "SERVICE",
+      "ISPEC",
+      "PTSPEC",
+      "TSPEC",
+      "IMPDATE",
+      "STATUS",
+      "REMARK"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "FILENAME": "SUR2-C04-05-BFW-LIM-23048-004_Rev0.PCF",
+        "ISONAME": "SUR2-C04-05-BFW-LIM-23048-004",
+        "FILEDATE": "",
+        "PSPEC1": "BVA",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-01-09 09:47",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000002",
+        "FILENAME": "SUR2-C04-05-BFW-LIM-23048-004_Rev1.PCF",
+        "ISONAME": "SUR2-C04-05-BFW-LIM-23048-004",
+        "FILEDATE": "",
+        "PSPEC1": "BVA",
+        "PSPEC2": "",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-04-05 09:27",
+        "STATUS": "",
+        "REMARK": ""
+      },
+      {
+        "CONTROLNO": "000003",
+        "FILENAME": "SUR2-C05-05-BD-LIM-21023-001_Rev0.PCF",
+        "ISONAME": "SUR2-C05-05-BD-LIM-21023-001",
+        "FILEDATE": "",
+        "PSPEC1": "BVA",
+        "PSPEC2": "AVA",
+        "PSPEC3": "",
+        "SERVICE": "",
+        "ISPEC": "",
+        "PTSPEC": "",
+        "TSPEC": "",
+        "IMPDATE": "2012-02-03 08:43",
+        "STATUS": "",
+        "REMARK": ""
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

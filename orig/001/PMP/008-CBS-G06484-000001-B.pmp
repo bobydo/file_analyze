@@ -1,0 +1,54 @@
+; "008-CBS-G06484-000001-B.pmp" Pipe Machine Program file produced by AcornPipe ver 8-421
+; Item B 8" Pipe Std(.322)
+
+[Program Options]
+Units=INCH
+Offset=Workpoint
+
+[Machine Options]
+XAxisReversed=N
+
+[Pipe Data]
+Filename=008-CBS-G06484-000001-B.pmp
+PipeDiameter=8.625
+WallThickness=0.322
+Length=255.284
+CuttingMethod=Oxy/fuel
+PartNumber=
+Specification=A
+Material=CBS - A106-B SMLS
+Quantity=1
+
+[End1]
+Type=Straight
+WeldPrepAngle=37.5
+
+
+[End2]
+Type=Straight
+WeldPrepAngle=37.5
+
+
+[Mid Item1]
+; 1/2"x 8" 3,000# Sockolet
+Type=Round
+Diameter=0.500
+XRotation=90
+YDistance=-251.5354
+IntersectionAngle=90.0
+
+[Mid Item2]
+; 1/2"x 8" 3,000# Sockolet
+Type=Round
+Diameter=0.500
+XRotation=90
+YDistance=-231.8504
+IntersectionAngle=90.0
+
+[Mid Item3]
+; 1/2"x 8" 3,000# Sockolet
+Type=Round
+Diameter=0.500
+XRotation=90
+YDistance=-208.2284
+IntersectionAngle=90.0

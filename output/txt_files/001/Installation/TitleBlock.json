@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\001\\Installation\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 308,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2012-06-15T09:17:10",
+    "export_timestamp": "2025-10-22T15:25:22.037542"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=2283\n[Text nY]=334\n[Text Scale]=1.3\n[Text Line]=\n\n\n[Logo Filename]=PennWest.jpg\n[Logo nX]=3650\n[Logo nY]=395\n[Logo Width]=390\n[Logo Height]=-130\n\n\n[Logo Filename]=Karach.jpg\n[Logo nX]=2235\n[Logo nY]=390\n[Logo Width]=390\n[Logo Height]=-300\n",
+    "preview_length": 287,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

@@ -1,0 +1,30 @@
+; "000-CBS-Q00160-000001-E.pmp" Pipe Machine Program file produced by AcornPipe ver 8-421
+; Item E 1/2" Pipe Sch 160(.188)
+
+[Program Options]
+Units=INCH
+Offset=Workpoint
+
+[Machine Options]
+XAxisReversed=N
+
+[Pipe Data]
+Filename=000-CBS-Q00160-000001-E.pmp
+PipeDiameter=0.840
+WallThickness=0.188
+Length=6.311
+CuttingMethod=Oxy/fuel
+PartNumber=
+Specification=A
+Material=CBS - A106-B SMLS
+Quantity=1
+
+[End1]
+Type=Straight
+WeldPrepAngle=37.5
+
+
+[End2]
+Type=Straight
+WeldPrepAngle=37.5
+

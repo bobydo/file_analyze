@@ -1,0 +1,145 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\TSW3.AC3",
+    "filename": "TSW3.AC3",
+    "size_bytes": 4307,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2005-03-16T23:21:04",
+    "export_timestamp": "2025-10-22T15:25:12.349419"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 4307,
+    "specifications": [
+      "inch  mm    33",
+      "Dimensions for 3,000#  SW Cross created 03-16-2005                                                  X",
+      "Nom. Size   Metric Size In Use?     Dimension   1 Reduction 2 Reduction 3 Reduction 4 Reduction"
+    ],
+    "dimensions": [
+      "1/8         3",
+      "1/4         6",
+      "3/8         9",
+      "1/2         12",
+      "3/4         20",
+      "4           100",
+      "6           150",
+      "8           200",
+      "10          250",
+      "12          300",
+      "14          350",
+      "16          400",
+      "18          450",
+      "20          500",
+      "22          550",
+      "24          600",
+      "26          650",
+      "28          700",
+      "30          750",
+      "32          800"
+    ],
+    "other_text": [
+      "@?1           25",
+      "`?1-1/4       30",
+      "?1-1/2       40",
+      "?2           50",
+      "?2-1/2       65",
+      "?3           75",
+      "@3-1/2       85",
+      "(@5           125"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "00 00 08 00 00 00 00 00 00 1a a3 40 05 00 03 00",
+        "ascii": "...........@...."
+      },
+      {
+        "offset": "00000010",
+        "hex": "1e a3 40 05 00 03 00 20 a3 40 05 00 03 00 22 a3",
+        "ascii": "..@.... .@....\"."
+      },
+      {
+        "offset": "00000020",
+        "hex": "40 05 00 03 00 30 a3 40 05 00 03 00 32 a3 40 05",
+        "ascii": "@....0.@....2.@."
+      },
+      {
+        "offset": "00000030",
+        "hex": "00 03 00 36 a3 40 05 00 03 00 3e a3 40 05 00 03",
+        "ascii": "...6.@....>.@..."
+      },
+      {
+        "offset": "00000040",
+        "hex": "00 44 a3 40 05 00 03 00 54 a3 40 05 00 ff ff 69",
+        "ascii": ".D.@....T.@....i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 33 33 cb 41 40",
+        "ascii": "nch  mm    33.A@"
+      },
+      {
+        "offset": "00000060",
+        "hex": "05 00 03 44 69 6d 65 6e 73 69 6f 6e 73 20 66 6f",
+        "ascii": "...Dimensions fo"
+      },
+      {
+        "offset": "00000070",
+        "hex": "72 20 33 2c 30 30 30 23 20 20 53 57 20 43 72 6f",
+        "ascii": "r 3,000#  SW Cro"
+      },
+      {
+        "offset": "00000080",
+        "hex": "73 73 20 63 72 65 61 74 65 64 20 30 33 2d 31 36",
+        "ascii": "ss created 03-16"
+      },
+      {
+        "offset": "00000090",
+        "hex": "2d 32 30 30 35 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "-2005           "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 58 00 08 00 02 00 0c 00 01",
+        "ascii": "       X........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4e 6f 6d 2e 20 53 69 7a 65 20 20 20 4d 65 74",
+        "ascii": ".Nom. Size   Met"
+      },
+      {
+        "offset": "000000e0",
+        "hex": "72 69 63 20 53 69 7a 65 20 49 6e 20 55 73 65 3f",
+        "ascii": "ric Size In Use?"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "20 20 20 20 20 44 69 6d 65 6e 73 69 6f 6e 20 20",
+        "ascii": "     Dimension  "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

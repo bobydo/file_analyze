@@ -1,0 +1,84 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\dbf_files\\database_files\\001\\EstItems001.dbf",
+    "filename": "EstItems001.dbf",
+    "size_bytes": 144899,
+    "extension": ".dbf",
+    "file_type": "database",
+    "is_binary": true,
+    "last_modified": "2013-05-22T16:16:55",
+    "export_timestamp": "2025-10-22T15:25:11.005801"
+  },
+  "analysis": {
+    "record_count": 299,
+    "field_count": 14,
+    "field_names": [
+      "CONTROLNO",
+      "REVISION",
+      "ITEMCODE",
+      "ITEMLABEL",
+      "DESCRIPT",
+      "IDFDESCR",
+      "MATERIAL",
+      "QUANTITY",
+      "WEIGHT",
+      "REMARKS",
+      "USERCODE",
+      "CLIENTCODE",
+      "AUXCODE",
+      "FILENAME"
+    ],
+    "sample_records": [
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP2200  G  000000    CBS.000",
+        "ITEMLABEL": "A",
+        "DESCRIPT": "20\" Std(.375)  BE x BE*",
+        "IDFDESCR": "20\" SCH60 PIPE BE SMLS A333 GR. 6 PER ASME B36.10",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 43.47,
+        "WEIGHT": 569.452,
+        "REMARKS": "",
+        "USERCODE": "PP01062",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "0741120170171wx140201.idf"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP2200  G  000000    CBS.000",
+        "ITEMLABEL": "B",
+        "DESCRIPT": "20\" Std(.375)  BE x BE*",
+        "IDFDESCR": "20\" SCH60 PIPE BE SMLS A333 GR. 6 PER ASME B36.10",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 23.563,
+        "WEIGHT": 308.673,
+        "REMARKS": "",
+        "USERCODE": "PP01062",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "0741120170171wx140201.idf"
+      },
+      {
+        "CONTROLNO": "000001",
+        "REVISION": "00",
+        "ITEMCODE": "PPP2000  G  000000    CBS.000",
+        "ITEMLABEL": "C",
+        "DESCRIPT": "16\" Std(.375)  BE x BE",
+        "IDFDESCR": "16\" SCH80 PIPE BE SMLS A333 GR. 6 PER ASME B36.10",
+        "MATERIAL": "A106-B SMLS",
+        "QUANTITY": 86.771,
+        "WEIGHT": 905.008,
+        "REMARKS": "",
+        "USERCODE": "PP00196",
+        "CLIENTCODE": "",
+        "AUXCODE": "A",
+        "FILENAME": "0741120170171wx140201.idf"
+      }
+    ]
+  },
+  "content_preview": {},
+  "error": null
+}

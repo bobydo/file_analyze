@@ -1,0 +1,62 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1419
+[Text nY]=193
+[Text Scale]=.95
+[Text Line]=August Winter & Sons, Inc
+
+[Text Alignment]=L
+[Text nX]=1419
+[Text nY]=138
+[Text Scale]=.95
+[Text Line]=2323 N. Roemer Rd.
+
+[Text Alignment]=L
+[Text nX]=1419
+[Text nY]=83
+[Text Scale]=.95
+[Text Line]=Appleton, Wisconsin
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=622
+[Text Scale]=.75
+[Text Line]=Check Fabrication Measurements
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=567
+[Text Scale]=.75
+[Text Line]=Check Welds
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=512
+[Text Scale]=.75
+[Text Line]=Clean Pipe
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=457
+[Text Scale]=.75
+[Text Line]=Purge Damn
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=402
+[Text Scale]=.75
+[Text Line]=Check for Non-Pipe Related Items Inside Pipe
+
+[Text Alignment]=L
+[Text nX]=2422
+[Text nY]=347
+[Text Scale]=.75
+[Text Line]=Shipped
+
+
+[Logo Filename]=Logo name.jpg
+[Logo nX]=1550
+[Logo nY]=250
+[Logo Width]=500
+[Logo Height]=-180

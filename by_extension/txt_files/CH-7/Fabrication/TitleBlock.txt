@@ -1,0 +1,20 @@
+[Text Font]=Arial
+
+[Text Alignment]=L
+[Text nX]=1413
+[Text nY]=200
+[Text Scale]=0.9600002
+[Text Line]=Century Contractors, Inc.
+
+[Text Alignment]=L
+[Text nX]=1413
+[Text nY]=145
+[Text Scale]=0.7680001
+[Text Line]=5100 Smith Farm Rd
+
+[Text Alignment]=L
+[Text nX]=1413
+[Text nY]=108
+[Text Scale]=0.7680001
+[Text Line]=Matthews, NC 28104
+

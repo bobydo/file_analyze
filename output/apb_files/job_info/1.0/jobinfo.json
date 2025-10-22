@@ -1,0 +1,44 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\1.0\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 68,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2015-01-22T17:22:25",
+    "export_timestamp": "2025-10-22T15:25:19.761476"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "50 6c 61 69 6e 73 20 41 6c 6c 20 41 6d 65 72 69",
+        "ascii": "Plains All Ameri"
+      },
+      {
+        "offset": "00000010",
+        "hex": "63 61 6e 20 70 69 70 65 6c 69 6e 65 0d 0a 43 48",
+        "ascii": "can pipeline..CH"
+      },
+      {
+        "offset": "00000020",
+        "hex": "41 44 53 50 45 43 0d 0a 30 30 30 30 30 0d 0a 20",
+        "ascii": "ADSPEC..00000.. "
+      },
+      {
+        "offset": "00000030",
+        "hex": "31 34 34 38 0d 0a 30 0d 0a 31 0d 0a 0d 0a 0d 0a",
+        "ascii": "1448..0..1......"
+      },
+      {
+        "offset": "00000040",
+        "hex": "0d 0a 0d 0a",
+        "ascii": "...."
+      }
+    ],
+    "preview_size": 68
+  },
+  "error": null
+}

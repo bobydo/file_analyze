@@ -1,0 +1,30 @@
+; "006-CBS-I00267-000172-A.pmp" Pipe Machine Program file produced by AcornPipe ver 8-421
+; Item A 6" Sch 40(.280) BE x BE 267
+
+[Program Options]
+Units=INCH
+Offset=Workpoint
+
+[Machine Options]
+XAxisReversed=N
+
+[Pipe Data]
+Filename=006-CBS-I00267-000172-A.pmp
+PipeDiameter=6.625
+WallThickness=0.280
+Length=10.500
+CuttingMethod=Oxy/fuel
+PartNumber=
+Specification=A
+Material=CBS - A106-B SMLS
+Quantity=1
+
+[End1]
+Type=Straight
+WeldPrepAngle=37.5
+
+
+[End2]
+Type=Straight
+WeldPrepAngle=37.5
+

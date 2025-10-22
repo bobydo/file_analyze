@@ -1,0 +1,117 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ac3_files\\autocad_files\\Data\\Master\\MTU.ac3",
+    "filename": "MTU.ac3",
+    "size_bytes": 3508,
+    "extension": ".ac3",
+    "file_type": "autocad_binary",
+    "is_binary": true,
+    "last_modified": "2013-12-20T06:39:14",
+    "export_timestamp": "2025-10-22T15:25:12.082385"
+  },
+  "analysis": {
+    "type": "AutoCAD Dimension Table",
+    "format": "Binary dimension data",
+    "size": 3508,
+    "specifications": [
+      "inch  mm"
+    ],
+    "dimensions": [],
+    "other_text": [
+      "TMaterial Category U-SA 316 Stainless                                                                ?",
+      "Letter                   Material                 In Use?",
+      "A                        SA312-TP316              B                        SA312-TP316H             C                        SA312-TP316L             D                        SA312-TP316N             E                        SA312-TP316/316L         F                        A358-316/316L            G                                                 H                        SA403-WP316              I                        SA403-WP316-S            J                        SA403-WP316H             K                        SA403-WP316H-S           L                        SA403-WP316L             M                        SA403-WP316L-S           N                        SA403-WP316N             O                        SA403-WP316N-S           P                        SA403-WP316/316L         Q                        SA403-WP316/316L-S       R                        SA182-F316               S                        SA182-F316H              T                        SA182-F316L              U                        SA182-F316N              V                        SA182-F316/316L          W                                                 X                                                 Y                                                 Z                                                 a                                                 b                                                 c                                                 d                                                 e                                                 f                                                 g                                                 h                                                 i                                                 j                                                 k                                                 l                                                 m                                                 n                                                 o                                                 p                                                 q                                                 r                                                 s                                                 t                                                 u                                                 v                                                 w                                                 x                                                 y                                                 z                                                 0                                                 1                                                 2                                                 3                                                 4                                                 5                                                 6                                                 7                                                 8                                                 9"
+    ],
+    "recommended_tools": [
+      "AutoCAD or compatible CAD software",
+      "Specialized piping dimension software",
+      "This Python script for data extraction"
+    ]
+  },
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "5c 00 4f 00 4f 00 42 00 45 00 5c 00 4d 00 53 00",
+        "ascii": "\\.O.O.B.E.\\.M.S."
+      },
+      {
+        "offset": "00000010",
+        "hex": "4e 00 53 00 45 00 54 00 55 00 50 00 5c 00 4d 00",
+        "ascii": "N.S.E.T.U.P.\\.M."
+      },
+      {
+        "offset": "00000020",
+        "hex": "55 00 53 00 45 00 52 00 49 00 4e 00 46 00 2e 00",
+        "ascii": "U.S.E.R.I.N.F..."
+      },
+      {
+        "offset": "00000030",
+        "hex": "48 00 54 00 4d 00 00 00 60 00 48 00 38 00 00 00",
+        "ascii": "H.T.M...`.H.8..."
+      },
+      {
+        "offset": "00000040",
+        "hex": "00 4c f2 60 12 8e be 01 00 00 52 00 57 00 00 69",
+        "ascii": ".L.`......R.W..i"
+      },
+      {
+        "offset": "00000050",
+        "hex": "6e 63 68 20 20 6d 6d 20 20 20 20 00 00 80 3f 00",
+        "ascii": "nch  mm    ...?."
+      },
+      {
+        "offset": "00000060",
+        "hex": "53 00 54 4d 61 74 65 72 69 61 6c 20 43 61 74 65",
+        "ascii": "S.TMaterial Cate"
+      },
+      {
+        "offset": "00000070",
+        "hex": "67 6f 72 79 20 55 2d 53 41 20 33 31 36 20 53 74",
+        "ascii": "gory U-SA 316 St"
+      },
+      {
+        "offset": "00000080",
+        "hex": "61 69 6e 6c 65 73 73 20 20 20 20 20 20 20 20 20",
+        "ascii": "ainless         "
+      },
+      {
+        "offset": "00000090",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000a0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000b0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "                "
+      },
+      {
+        "offset": "000000c0",
+        "hex": "20 20 20 20 20 20 20 3f 00 03 00 02 00 19 00 01",
+        "ascii": "       ?........"
+      },
+      {
+        "offset": "000000d0",
+        "hex": "00 4c 65 74 74 65 72 20 20 20 20 20 20 20 20 20",
+        "ascii": ".Letter         "
+      },
+      {
+        "offset": "000000e0",
+        "hex": "20 20 20 20 20 20 20 20 20 20 4d 61 74 65 72 69",
+        "ascii": "          Materi"
+      },
+      {
+        "offset": "000000f0",
+        "hex": "61 6c 20 20 20 20 20 20 20 20 20 20 20 20 20 20",
+        "ascii": "al              "
+      }
+    ],
+    "preview_size": 256
+  },
+  "error": null
+}

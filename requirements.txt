@@ -1,0 +1,10 @@
+# File Analysis Project Requirements
+# For legacy engineering piping system file analysis
+
+# External dependencies
+dbfread==2.0.7
+
+# Note: All other modules used are Python standard library:
+# - os, sys, pathlib, re, struct (file operations and regex)
+# - json, datetime, logging, decimal (data handling)
+# - shutil, collections (utilities)

@@ -1,0 +1,19 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\txt_files\\31047\\Fabrication\\TitleBlock.txt",
+    "filename": "TitleBlock.txt",
+    "size_bytes": 518,
+    "extension": ".txt",
+    "file_type": "text_file",
+    "is_binary": false,
+    "last_modified": "2011-09-30T12:53:28",
+    "export_timestamp": "2025-10-22T15:25:22.016825"
+  },
+  "analysis": {},
+  "content_preview": {
+    "text_content": "[Text Font]=Arial\n\n[Text Alignment]=L\n[Text nX]=1200\n[Text nY]=130\n[Text Scale]=0.5787037\n[Text Line]=17474 OLD JEFFERSON HIGHWAY\n\n[Text Alignment]=L\n[Text nX]=1200\n[Text nY]=100\n[Text Scale]=0.5787037\n[Text Line]=PRAIRIEVILLE, LA 70769\n\n[Text Alignment]=L\n[Text nX]=1200\n[Text nY]=70\n[Text Scale]=0.5787037\n[Text Line]=PH. 225-673-3236 FX.225-673-5973\n\n[Logo Filename]=VOLKS LOGO.jpg\n[Logo Alignment]=L\n[Logo nX]=1200\n[Logo nY]=250\n[Logo Scale]=0.5787037\n[Logo Width]=496\n[Logo Height]=-82\n",
+    "preview_length": 491,
+    "encoding": "utf-8"
+  },
+  "error": null
+}

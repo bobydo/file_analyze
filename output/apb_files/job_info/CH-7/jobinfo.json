@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\apb_files\\job_info\\CH-7\\jobinfo.apb",
+    "filename": "jobinfo.apb",
+    "size_bytes": 50,
+    "extension": ".apb",
+    "file_type": "job_info_binary",
+    "is_binary": true,
+    "last_modified": "2012-07-16T10:32:06",
+    "export_timestamp": "2025-10-22T15:25:19.772763"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "43 4d 43 2d 4d 61 69 6e 0d 0a 4d 49 23 31 35 30",
+        "ascii": "CMC-Main..MI#150"
+      },
+      {
+        "offset": "00000010",
+        "hex": "54 48 52 44 0d 0a 30 30 30 30 30 0d 0a 20 31 34",
+        "ascii": "THRD..00000.. 14"
+      },
+      {
+        "offset": "00000020",
+        "hex": "34 38 0d 0a 30 0d 0a 31 0d 0a 0d 0a 0d 0a 0d 0a",
+        "ascii": "48..0..1........"
+      },
+      {
+        "offset": "00000030",
+        "hex": "0d 0a",
+        "ascii": ".."
+      }
+    ],
+    "preview_size": 50
+  },
+  "error": null
+}

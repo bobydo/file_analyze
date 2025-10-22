@@ -1,0 +1,39 @@
+{
+  "file_metadata": {
+    "original_path": "d:\\file_analyze\\by_extension\\ap2_files\\specifications\\Shenyi\\Specification\\AAB.ap2",
+    "filename": "AAB.ap2",
+    "size_bytes": 52,
+    "extension": ".ap2",
+    "file_type": "specification_binary",
+    "is_binary": true,
+    "last_modified": "2011-11-26T15:15:26",
+    "export_timestamp": "2025-10-22T15:25:19.602398"
+  },
+  "analysis": {},
+  "content_preview": {
+    "binary_preview": [
+      {
+        "offset": "00000000",
+        "hex": "0d 0a 0d 0a 45 6e 74 72 69 65 73 3d 34 20 20 4e",
+        "ascii": "....Entries=4  N"
+      },
+      {
+        "offset": "00000010",
+        "hex": "6f 6e 20 44 65 73 74 72 75 63 74 69 76 65 20 45",
+        "ascii": "on Destructive E"
+      },
+      {
+        "offset": "00000020",
+        "hex": "78 61 6d 0d 0a 31 30 25 0d 0a 0d 0a 0d 0a 31 30",
+        "ascii": "xam..10%......10"
+      },
+      {
+        "offset": "00000030",
+        "hex": "30 25 0d 0a",
+        "ascii": "0%.."
+      }
+    ],
+    "preview_size": 52
+  },
+  "error": null
+}
