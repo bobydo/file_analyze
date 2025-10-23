@@ -12,7 +12,7 @@ from datetime import datetime
 from collections import defaultdict
 
 class AeconFileOrganizer:
-    def __init__(self, source_path="C:/SFClients/Aecon", target_path="d:/file_analyze/orig"):
+    def __init__(self, source_path="D:/file_analyze/orig", target_path="d:/file_analyze/orig"):
         self.source_path = Path(source_path)
         self.target_path = Path(target_path)
         
